@@ -1,0 +1,42 @@
+column_name,pandas_data_type,missing_values,distinct_values,sample_values
+customer_id,str,0,10000,C00001 | C00002 | C00003 | C00004 | C00005
+signup_date,str,0,501,2026-03-27 | 2025-12-08 | 2025-11-14 | 2025-04-11 | 2026-03-01
+age_group,str,0,5,25-34 | 35-44 | 45-54 | 18-24 | 55+
+country,str,0,7,India | Singapore | Canada | United States | Australia
+company_size,str,0,4,Individual | Small | Medium | Large
+acquisition_channel,str,0,6,Google Ads | Organic | Partner | Referral | Meta Ads
+customer_type,str,0,2,Individual | Business
+plan,str,0,4,Professional | Basic | Business | Free
+billing_cycle,str,0,2,Monthly | Annual
+monthly_price,float64,0,7,49.0 | 41.65 | 19.0 | 84.15 | 16.15
+subscription_status,str,0,2,Cancelled | Active
+subscription_start_date,str,0,501,2026-03-27 | 2025-12-08 | 2025-11-14 | 2025-04-11 | 2026-03-01
+subscription_end_date,str,8097,428,2026-06-28 | 2026-05-26 | 2026-01-04 | 2026-06-10 | 2026-03-21
+total_transactions,int64,0,19,4 | 7 | 1 | 15 | 3
+successful_transactions,int64,0,19,4 | 7 | 1 | 14 | 3
+failed_transactions,int64,0,6,0 | 1 | 2 | 3 | 4
+total_revenue,float64,0,78,196.0 | 343.0 | 499.8 | 686.0 | 57.0
+avg_successful_transaction_amount,float64,0,20,49.0 | 499.8 | 19.0 | 1009.8 | 193.8
+last_transaction_date,str,575,286,2026-06-01 | 2025-11-01 | 2026-06-05 | 2026-05-04 | 2026-06-03
+activity_records,int64,0,148,33 | 44 | 69 | 127 | 21
+total_sessions,int64,0,972,171 | 141 | 359 | 628 | 66
+total_session_minutes,int64,0,4340,1027 | 1070 | 2202 | 4056 | 545
+total_projects_created,int64,0,193,25 | 16 | 63 | 96 | 9
+total_files_uploaded,int64,0,650,135 | 87 | 220 | 365 | 50
+total_features_used,int64,0,596,114 | 98 | 242 | 359 | 49
+total_active_days,int64,0,148,33 | 44 | 69 | 127 | 21
+avg_sessions_per_activity,float64,0,6021,5.1818 | 3.2045 | 5.2029 | 4.9449 | 3.1429
+avg_session_minutes_per_activity,float64,0,8070,31.1212 | 24.3182 | 31.913 | 31.937 | 25.9524
+total_support_tickets,int64,0,13,9 | 2 | 1 | 5 | 3
+resolved_tickets,int64,0,11,8 | 2 | 1 | 3 | 6
+avg_resolution_hours,float64,0,375,7.7778 | 1.0 | 16.5 | 9.0 | 18.4
+avg_satisfaction_score,float64,78,79,3.55556 | 4.5 | 4.0 | 1.0 | 2.8
+last_support_ticket_date,str,78,475,2026-06-20 | 2026-04-24 | 2026-05-23 | 2026-03-16 | 2026-05-11
+total_marketing_interactions,int64,0,8,6 | 3 | 7 | 2 | 5
+campaigns_interacted,int64,0,8,5 | 2 | 7 | 6 | 4
+marketing_channels_used,int64,0,6,4 | 2 | 5 | 3 | 1
+last_marketing_interaction_date,str,0,501,2026-03-24 | 2025-12-04 | 2025-11-12 | 2025-04-08 | 2026-02-26
+churned,int64,0,2,1 | 0
+churn_date,str,8097,428,2026-06-28 | 2026-05-26 | 2026-01-04 | 2026-06-10 | 2026-03-21
+churn_reason,str,8097,8,Too Expensive | Other | Missing Features | Payment Failure | Low Usage
+churn_type,str,8097,2,Voluntary | Involuntary

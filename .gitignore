@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Local database / credentials
+*.env
+.env
+*.ini
+
+# Power BI temporary/local files
+.pbi/
+.pbit.lock
+
+# Temporary exports
+temp/
+tmp/
+# Generated cleaned datasets
+01_raw_data/cleaned/
+
+# Temporary/intermediate EDA outputs
+02_python/eda_outputs/

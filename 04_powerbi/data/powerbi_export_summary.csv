@@ -1,0 +1,6 @@
+metric,value
+row_count,10000
+column_count,41
+unique_customer_ids,10000
+duplicate_customer_ids,0
+date_column_count,7

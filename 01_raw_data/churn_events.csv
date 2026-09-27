@@ -1,0 +1,1904 @@
+churn_id,customer_id,churn_date,churn_reason,churn_type
+CE000001,C00001,2026-06-28,Too Expensive,Voluntary
+CE000002,C00005,2026-05-26,Too Expensive,Voluntary
+CE000003,C00021,2026-01-04,Other,Voluntary
+CE000004,C00027,2026-06-10,Missing Features,Voluntary
+CE000005,C00032,2026-03-21,Payment Failure,Involuntary
+CE000006,C00033,2026-06-01,Low Usage,Voluntary
+CE000007,C00034,2025-08-27,Poor Experience,Voluntary
+CE000008,C00041,2026-06-24,Too Expensive,Voluntary
+CE000009,C00044,2026-06-17,Missing Features,Voluntary
+CE000010,C00045,2025-04-03,Too Expensive,Voluntary
+CE000011,C00053,2026-05-29,Low Usage,Voluntary
+CE000012,C00057,2026-06-12,Other,Voluntary
+CE000013,C00062,2026-04-06,Payment Failure,Involuntary
+CE000014,C00070,2025-05-18,Low Usage,Voluntary
+CE000015,C00079,2026-06-29,Other,Voluntary
+CE000016,C00080,2026-01-30,Payment Failure,Involuntary
+CE000017,C00084,2026-03-18,Low Usage,Voluntary
+CE000018,C00085,2026-02-01,Competitor,Voluntary
+CE000019,C00096,2026-06-24,Too Expensive,Voluntary
+CE000020,C00098,2026-06-29,Too Expensive,Voluntary
+CE000021,C00102,2026-05-28,Too Expensive,Voluntary
+CE000022,C00103,2026-05-23,Too Expensive,Voluntary
+CE000023,C00104,2026-04-20,Low Usage,Voluntary
+CE000024,C00105,2026-06-24,Poor Experience,Voluntary
+CE000025,C00109,2026-03-23,Too Expensive,Voluntary
+CE000026,C00111,2026-05-27,Too Expensive,Voluntary
+CE000027,C00112,2025-11-16,Too Expensive,Voluntary
+CE000028,C00115,2026-05-25,Payment Failure,Involuntary
+CE000029,C00117,2025-08-16,Low Usage,Voluntary
+CE000030,C00123,2026-06-05,Too Expensive,Voluntary
+CE000031,C00125,2026-01-22,Missing Features,Voluntary
+CE000032,C00135,2026-02-03,Payment Failure,Involuntary
+CE000033,C00140,2026-04-17,Payment Failure,Involuntary
+CE000034,C00160,2026-06-23,Poor Experience,Voluntary
+CE000035,C00171,2026-04-13,Low Usage,Voluntary
+CE000036,C00174,2025-12-22,Low Usage,Voluntary
+CE000037,C00181,2026-02-20,Poor Experience,Voluntary
+CE000038,C00185,2025-12-28,Competitor,Voluntary
+CE000039,C00188,2026-06-07,Payment Failure,Involuntary
+CE000040,C00192,2026-01-20,Payment Failure,Involuntary
+CE000041,C00198,2026-06-22,Competitor,Voluntary
+CE000042,C00207,2025-07-30,Competitor,Voluntary
+CE000043,C00209,2026-01-04,Too Expensive,Voluntary
+CE000044,C00210,2026-03-01,Too Expensive,Voluntary
+CE000045,C00212,2025-07-24,Low Usage,Voluntary
+CE000046,C00214,2026-01-11,Missing Features,Voluntary
+CE000047,C00218,2025-11-02,Support Issues,Voluntary
+CE000048,C00223,2026-05-30,Poor Experience,Voluntary
+CE000049,C00227,2026-03-20,Low Usage,Voluntary
+CE000050,C00231,2025-12-16,Poor Experience,Voluntary
+CE000051,C00232,2026-05-10,Payment Failure,Involuntary
+CE000052,C00236,2026-05-09,Too Expensive,Voluntary
+CE000053,C00242,2026-02-22,Other,Voluntary
+CE000054,C00247,2026-01-27,Low Usage,Voluntary
+CE000055,C00250,2025-10-29,Other,Voluntary
+CE000056,C00253,2026-06-09,Too Expensive,Voluntary
+CE000057,C00255,2026-02-15,Other,Voluntary
+CE000058,C00256,2026-06-24,Payment Failure,Involuntary
+CE000059,C00267,2026-05-24,Poor Experience,Voluntary
+CE000060,C00268,2025-11-29,Poor Experience,Voluntary
+CE000061,C00275,2026-03-29,Low Usage,Voluntary
+CE000062,C00282,2026-04-05,Poor Experience,Voluntary
+CE000063,C00288,2026-01-11,Other,Voluntary
+CE000064,C00289,2026-04-01,Low Usage,Voluntary
+CE000065,C00294,2025-08-04,Low Usage,Voluntary
+CE000066,C00295,2025-03-22,Other,Voluntary
+CE000067,C00301,2025-08-14,Other,Voluntary
+CE000068,C00305,2026-01-26,Other,Voluntary
+CE000069,C00309,2025-10-20,Support Issues,Voluntary
+CE000070,C00310,2026-01-21,Competitor,Voluntary
+CE000071,C00315,2026-05-12,Low Usage,Voluntary
+CE000072,C00316,2025-10-09,Low Usage,Voluntary
+CE000073,C00329,2026-05-09,Other,Voluntary
+CE000074,C00335,2026-06-26,Competitor,Voluntary
+CE000075,C00352,2026-03-18,Too Expensive,Voluntary
+CE000076,C00357,2026-05-19,Payment Failure,Involuntary
+CE000077,C00363,2026-01-29,Other,Voluntary
+CE000078,C00369,2025-02-09,Missing Features,Voluntary
+CE000079,C00370,2026-04-14,Poor Experience,Voluntary
+CE000080,C00386,2026-06-02,Other,Voluntary
+CE000081,C00390,2026-01-15,Support Issues,Voluntary
+CE000082,C00393,2026-06-16,Payment Failure,Involuntary
+CE000083,C00397,2026-02-14,Poor Experience,Voluntary
+CE000084,C00398,2026-06-28,Low Usage,Voluntary
+CE000085,C00405,2026-06-16,Payment Failure,Involuntary
+CE000086,C00411,2026-03-08,Poor Experience,Voluntary
+CE000087,C00418,2026-06-07,Poor Experience,Voluntary
+CE000088,C00424,2026-05-04,Missing Features,Voluntary
+CE000089,C00428,2025-11-11,Other,Voluntary
+CE000090,C00436,2026-06-19,Competitor,Voluntary
+CE000091,C00439,2026-06-21,Low Usage,Voluntary
+CE000092,C00440,2025-12-12,Competitor,Voluntary
+CE000093,C00441,2025-10-10,Missing Features,Voluntary
+CE000094,C00451,2026-02-04,Other,Voluntary
+CE000095,C00454,2025-10-04,Missing Features,Voluntary
+CE000096,C00455,2026-04-27,Support Issues,Involuntary
+CE000097,C00464,2026-04-30,Other,Voluntary
+CE000098,C00488,2026-06-02,Low Usage,Voluntary
+CE000099,C00499,2025-07-01,Too Expensive,Voluntary
+CE000100,C00501,2025-12-27,Other,Voluntary
+CE000101,C00503,2026-06-11,Competitor,Voluntary
+CE000102,C00504,2025-12-26,Too Expensive,Voluntary
+CE000103,C00509,2025-09-21,Competitor,Voluntary
+CE000104,C00513,2025-05-04,Poor Experience,Voluntary
+CE000105,C00514,2025-12-12,Missing Features,Voluntary
+CE000106,C00515,2026-06-17,Other,Voluntary
+CE000107,C00521,2025-11-29,Payment Failure,Involuntary
+CE000108,C00532,2025-09-08,Other,Voluntary
+CE000109,C00536,2026-06-08,Competitor,Voluntary
+CE000110,C00538,2026-02-27,Other,Voluntary
+CE000111,C00544,2026-06-28,Missing Features,Voluntary
+CE000112,C00552,2025-08-23,Support Issues,Voluntary
+CE000113,C00577,2025-12-12,Competitor,Voluntary
+CE000114,C00583,2026-02-16,Low Usage,Voluntary
+CE000115,C00585,2025-10-22,Poor Experience,Voluntary
+CE000116,C00590,2026-06-23,Poor Experience,Voluntary
+CE000117,C00601,2026-06-25,Competitor,Voluntary
+CE000118,C00605,2026-02-01,Low Usage,Voluntary
+CE000119,C00606,2026-03-28,Low Usage,Voluntary
+CE000120,C00609,2026-04-12,Too Expensive,Voluntary
+CE000121,C00611,2026-04-07,Poor Experience,Voluntary
+CE000122,C00622,2026-04-22,Too Expensive,Voluntary
+CE000123,C00630,2026-02-06,Too Expensive,Voluntary
+CE000124,C00642,2026-06-15,Competitor,Voluntary
+CE000125,C00643,2026-05-03,Low Usage,Voluntary
+CE000126,C00644,2026-05-26,Low Usage,Voluntary
+CE000127,C00645,2026-03-17,Other,Voluntary
+CE000128,C00646,2025-05-18,Other,Voluntary
+CE000129,C00649,2025-07-31,Competitor,Voluntary
+CE000130,C00654,2026-03-02,Competitor,Voluntary
+CE000131,C00665,2026-06-01,Payment Failure,Involuntary
+CE000132,C00687,2025-05-20,Too Expensive,Voluntary
+CE000133,C00688,2026-01-12,Payment Failure,Involuntary
+CE000134,C00701,2026-05-27,Missing Features,Voluntary
+CE000135,C00704,2026-06-08,Other,Voluntary
+CE000136,C00709,2026-06-05,Too Expensive,Voluntary
+CE000137,C00729,2026-02-28,Competitor,Voluntary
+CE000138,C00730,2026-01-18,Poor Experience,Voluntary
+CE000139,C00731,2025-12-17,Low Usage,Voluntary
+CE000140,C00734,2026-04-26,Other,Voluntary
+CE000141,C00738,2025-05-18,Too Expensive,Voluntary
+CE000142,C00741,2025-05-22,Other,Voluntary
+CE000143,C00743,2026-01-07,Low Usage,Voluntary
+CE000144,C00746,2025-08-12,Other,Voluntary
+CE000145,C00749,2026-06-24,Missing Features,Voluntary
+CE000146,C00750,2026-05-29,Other,Voluntary
+CE000147,C00761,2026-06-17,Missing Features,Voluntary
+CE000148,C00763,2026-01-09,Support Issues,Voluntary
+CE000149,C00764,2026-05-04,Other,Voluntary
+CE000150,C00765,2026-05-20,Support Issues,Voluntary
+CE000151,C00771,2026-01-31,Other,Involuntary
+CE000152,C00776,2026-04-16,Support Issues,Voluntary
+CE000153,C00784,2025-10-04,Poor Experience,Voluntary
+CE000154,C00788,2025-05-11,Too Expensive,Voluntary
+CE000155,C00789,2026-03-15,Payment Failure,Involuntary
+CE000156,C00800,2026-01-06,Too Expensive,Voluntary
+CE000157,C00803,2025-09-28,Other,Voluntary
+CE000158,C00805,2026-05-20,Poor Experience,Voluntary
+CE000159,C00806,2026-01-04,Other,Voluntary
+CE000160,C00809,2025-09-16,Low Usage,Voluntary
+CE000161,C00810,2026-04-16,Low Usage,Voluntary
+CE000162,C00822,2026-05-26,Too Expensive,Voluntary
+CE000163,C00838,2026-05-29,Poor Experience,Voluntary
+CE000164,C00841,2025-11-09,Missing Features,Voluntary
+CE000165,C00843,2026-06-15,Missing Features,Voluntary
+CE000166,C00853,2026-06-24,Too Expensive,Voluntary
+CE000167,C00861,2026-04-12,Too Expensive,Voluntary
+CE000168,C00865,2025-06-11,Missing Features,Voluntary
+CE000169,C00866,2026-02-16,Support Issues,Voluntary
+CE000170,C00874,2026-02-20,Other,Voluntary
+CE000171,C00875,2026-04-17,Competitor,Voluntary
+CE000172,C00877,2025-02-18,Support Issues,Voluntary
+CE000173,C00885,2026-02-07,Payment Failure,Involuntary
+CE000174,C00887,2025-03-13,Payment Failure,Involuntary
+CE000175,C00889,2026-04-10,Other,Voluntary
+CE000176,C00892,2025-10-30,Poor Experience,Voluntary
+CE000177,C00893,2026-05-18,Too Expensive,Voluntary
+CE000178,C00897,2026-06-30,Payment Failure,Involuntary
+CE000179,C00908,2026-06-01,Competitor,Voluntary
+CE000180,C00915,2026-04-29,Support Issues,Voluntary
+CE000181,C00922,2025-11-10,Low Usage,Voluntary
+CE000182,C00925,2026-05-02,Competitor,Voluntary
+CE000183,C00931,2026-05-04,Too Expensive,Voluntary
+CE000184,C00939,2026-06-28,Missing Features,Voluntary
+CE000185,C00950,2026-06-07,Poor Experience,Voluntary
+CE000186,C00961,2026-06-05,Low Usage,Voluntary
+CE000187,C00962,2026-01-20,Low Usage,Voluntary
+CE000188,C00963,2026-03-29,Other,Voluntary
+CE000189,C00971,2026-04-17,Competitor,Voluntary
+CE000190,C00978,2026-06-25,Competitor,Voluntary
+CE000191,C00982,2026-05-04,Low Usage,Voluntary
+CE000192,C00990,2026-02-22,Support Issues,Voluntary
+CE000193,C00992,2026-04-20,Too Expensive,Voluntary
+CE000194,C01004,2026-05-11,Poor Experience,Voluntary
+CE000195,C01006,2026-01-20,Missing Features,Voluntary
+CE000196,C01007,2026-02-18,Missing Features,Voluntary
+CE000197,C01022,2026-06-01,Other,Voluntary
+CE000198,C01024,2025-12-06,Payment Failure,Involuntary
+CE000199,C01036,2025-03-28,Support Issues,Voluntary
+CE000200,C01045,2026-05-10,Low Usage,Voluntary
+CE000201,C01049,2026-06-17,Low Usage,Voluntary
+CE000202,C01052,2026-05-03,Low Usage,Voluntary
+CE000203,C01058,2026-04-13,Low Usage,Voluntary
+CE000204,C01066,2026-05-17,Poor Experience,Voluntary
+CE000205,C01073,2026-06-16,Low Usage,Voluntary
+CE000206,C01079,2026-04-18,Too Expensive,Voluntary
+CE000207,C01080,2026-05-30,Competitor,Voluntary
+CE000208,C01081,2026-01-10,Support Issues,Voluntary
+CE000209,C01090,2026-04-26,Competitor,Voluntary
+CE000210,C01091,2026-05-30,Other,Involuntary
+CE000211,C01094,2026-03-09,Too Expensive,Voluntary
+CE000212,C01096,2026-03-06,Support Issues,Voluntary
+CE000213,C01097,2026-06-10,Low Usage,Voluntary
+CE000214,C01103,2026-05-16,Other,Voluntary
+CE000215,C01134,2025-07-06,Too Expensive,Voluntary
+CE000216,C01139,2025-12-18,Competitor,Voluntary
+CE000217,C01141,2026-03-03,Payment Failure,Involuntary
+CE000218,C01157,2026-05-12,Missing Features,Voluntary
+CE000219,C01173,2026-05-11,Low Usage,Voluntary
+CE000220,C01174,2026-03-03,Low Usage,Voluntary
+CE000221,C01191,2026-05-20,Too Expensive,Voluntary
+CE000222,C01205,2025-09-26,Competitor,Voluntary
+CE000223,C01207,2025-07-09,Other,Voluntary
+CE000224,C01208,2026-05-01,Too Expensive,Voluntary
+CE000225,C01209,2025-10-25,Support Issues,Voluntary
+CE000226,C01234,2026-02-24,Payment Failure,Involuntary
+CE000227,C01235,2026-04-17,Low Usage,Voluntary
+CE000228,C01242,2025-09-13,Payment Failure,Involuntary
+CE000229,C01243,2026-03-11,Missing Features,Voluntary
+CE000230,C01246,2026-04-24,Poor Experience,Voluntary
+CE000231,C01249,2026-03-06,Payment Failure,Involuntary
+CE000232,C01258,2026-04-23,Low Usage,Voluntary
+CE000233,C01261,2026-06-15,Poor Experience,Voluntary
+CE000234,C01271,2026-04-08,Poor Experience,Voluntary
+CE000235,C01273,2026-06-21,Too Expensive,Voluntary
+CE000236,C01277,2026-05-29,Payment Failure,Involuntary
+CE000237,C01278,2026-06-27,Missing Features,Voluntary
+CE000238,C01281,2025-07-03,Competitor,Voluntary
+CE000239,C01287,2025-05-03,Too Expensive,Voluntary
+CE000240,C01294,2026-06-06,Payment Failure,Involuntary
+CE000241,C01295,2026-01-07,Poor Experience,Voluntary
+CE000242,C01299,2026-06-16,Payment Failure,Involuntary
+CE000243,C01300,2026-01-21,Missing Features,Voluntary
+CE000244,C01304,2025-10-04,Too Expensive,Voluntary
+CE000245,C01306,2026-05-09,Poor Experience,Voluntary
+CE000246,C01330,2026-06-14,Payment Failure,Involuntary
+CE000247,C01340,2026-06-01,Support Issues,Voluntary
+CE000248,C01360,2026-01-31,Competitor,Voluntary
+CE000249,C01385,2026-05-22,Competitor,Voluntary
+CE000250,C01394,2026-02-03,Low Usage,Voluntary
+CE000251,C01396,2026-06-27,Competitor,Voluntary
+CE000252,C01399,2025-09-26,Missing Features,Voluntary
+CE000253,C01402,2026-06-21,Poor Experience,Voluntary
+CE000254,C01411,2026-06-18,Low Usage,Voluntary
+CE000255,C01415,2026-05-30,Poor Experience,Voluntary
+CE000256,C01420,2025-11-26,Payment Failure,Involuntary
+CE000257,C01424,2025-08-07,Poor Experience,Voluntary
+CE000258,C01425,2026-02-28,Too Expensive,Voluntary
+CE000259,C01428,2025-12-10,Payment Failure,Involuntary
+CE000260,C01429,2025-12-25,Poor Experience,Voluntary
+CE000261,C01433,2026-02-15,Missing Features,Voluntary
+CE000262,C01434,2026-04-28,Competitor,Voluntary
+CE000263,C01436,2025-11-21,Low Usage,Voluntary
+CE000264,C01443,2026-01-08,Competitor,Voluntary
+CE000265,C01452,2026-05-01,Payment Failure,Involuntary
+CE000266,C01453,2026-01-26,Payment Failure,Involuntary
+CE000267,C01457,2025-10-11,Competitor,Involuntary
+CE000268,C01462,2026-06-24,Payment Failure,Involuntary
+CE000269,C01465,2026-05-12,Too Expensive,Voluntary
+CE000270,C01469,2026-06-26,Other,Voluntary
+CE000271,C01472,2026-05-21,Too Expensive,Voluntary
+CE000272,C01477,2026-01-24,Support Issues,Voluntary
+CE000273,C01479,2025-11-19,Payment Failure,Involuntary
+CE000274,C01480,2026-04-24,Other,Voluntary
+CE000275,C01483,2026-05-22,Missing Features,Voluntary
+CE000276,C01487,2026-06-26,Competitor,Voluntary
+CE000277,C01489,2026-03-23,Low Usage,Voluntary
+CE000278,C01492,2026-01-14,Too Expensive,Voluntary
+CE000279,C01493,2026-01-07,Poor Experience,Voluntary
+CE000280,C01499,2026-05-20,Payment Failure,Involuntary
+CE000281,C01517,2026-02-17,Payment Failure,Involuntary
+CE000282,C01520,2026-04-10,Low Usage,Voluntary
+CE000283,C01524,2025-12-11,Other,Voluntary
+CE000284,C01528,2026-04-06,Payment Failure,Involuntary
+CE000285,C01531,2026-06-06,Payment Failure,Involuntary
+CE000286,C01537,2025-06-21,Missing Features,Voluntary
+CE000287,C01542,2025-03-24,Other,Voluntary
+CE000288,C01545,2025-11-04,Low Usage,Voluntary
+CE000289,C01564,2026-04-07,Missing Features,Voluntary
+CE000290,C01566,2026-05-23,Poor Experience,Voluntary
+CE000291,C01571,2026-02-11,Payment Failure,Involuntary
+CE000292,C01577,2026-05-11,Low Usage,Voluntary
+CE000293,C01578,2025-06-30,Other,Voluntary
+CE000294,C01597,2026-03-27,Too Expensive,Voluntary
+CE000295,C01598,2025-10-03,Low Usage,Voluntary
+CE000296,C01599,2025-12-04,Other,Voluntary
+CE000297,C01604,2026-06-04,Low Usage,Voluntary
+CE000298,C01606,2025-10-03,Payment Failure,Involuntary
+CE000299,C01613,2025-03-21,Low Usage,Voluntary
+CE000300,C01615,2026-05-11,Poor Experience,Voluntary
+CE000301,C01617,2025-10-02,Payment Failure,Involuntary
+CE000302,C01618,2026-05-29,Payment Failure,Involuntary
+CE000303,C01620,2026-03-26,Low Usage,Voluntary
+CE000304,C01624,2026-03-22,Poor Experience,Voluntary
+CE000305,C01628,2026-02-05,Other,Voluntary
+CE000306,C01629,2025-10-08,Competitor,Voluntary
+CE000307,C01633,2026-01-26,Poor Experience,Voluntary
+CE000308,C01636,2026-05-09,Payment Failure,Involuntary
+CE000309,C01639,2026-01-30,Support Issues,Voluntary
+CE000310,C01648,2026-05-23,Too Expensive,Voluntary
+CE000311,C01649,2026-02-25,Poor Experience,Voluntary
+CE000312,C01650,2026-03-12,Competitor,Voluntary
+CE000313,C01655,2026-05-06,Competitor,Voluntary
+CE000314,C01676,2026-02-23,Missing Features,Voluntary
+CE000315,C01679,2026-05-29,Payment Failure,Involuntary
+CE000316,C01682,2025-06-27,Payment Failure,Involuntary
+CE000317,C01684,2025-06-10,Missing Features,Voluntary
+CE000318,C01686,2026-06-02,Low Usage,Voluntary
+CE000319,C01693,2025-06-17,Payment Failure,Involuntary
+CE000320,C01695,2025-11-25,Other,Voluntary
+CE000321,C01699,2026-02-15,Support Issues,Voluntary
+CE000322,C01700,2026-05-25,Other,Voluntary
+CE000323,C01703,2026-04-28,Other,Voluntary
+CE000324,C01707,2026-04-10,Other,Voluntary
+CE000325,C01708,2026-03-26,Competitor,Voluntary
+CE000326,C01718,2026-04-15,Poor Experience,Voluntary
+CE000327,C01722,2026-06-27,Competitor,Voluntary
+CE000328,C01735,2026-06-26,Poor Experience,Voluntary
+CE000329,C01736,2025-11-15,Poor Experience,Voluntary
+CE000330,C01737,2025-07-04,Poor Experience,Voluntary
+CE000331,C01740,2026-05-30,Too Expensive,Voluntary
+CE000332,C01748,2026-01-04,Payment Failure,Involuntary
+CE000333,C01753,2026-03-20,Low Usage,Voluntary
+CE000334,C01754,2025-12-29,Competitor,Voluntary
+CE000335,C01756,2026-06-26,Payment Failure,Involuntary
+CE000336,C01757,2026-06-15,Other,Voluntary
+CE000337,C01763,2025-12-23,Poor Experience,Voluntary
+CE000338,C01764,2026-01-16,Missing Features,Voluntary
+CE000339,C01766,2026-03-10,Low Usage,Voluntary
+CE000340,C01770,2025-10-16,Payment Failure,Involuntary
+CE000341,C01774,2025-06-26,Too Expensive,Voluntary
+CE000342,C01775,2026-06-15,Missing Features,Voluntary
+CE000343,C01780,2026-03-30,Other,Voluntary
+CE000344,C01781,2025-11-26,Poor Experience,Voluntary
+CE000345,C01787,2026-01-19,Payment Failure,Involuntary
+CE000346,C01788,2026-02-11,Missing Features,Voluntary
+CE000347,C01793,2026-05-29,Low Usage,Voluntary
+CE000348,C01803,2026-05-21,Low Usage,Voluntary
+CE000349,C01807,2026-04-11,Missing Features,Voluntary
+CE000350,C01808,2026-05-22,Poor Experience,Voluntary
+CE000351,C01831,2026-04-24,Payment Failure,Involuntary
+CE000352,C01836,2026-03-18,Low Usage,Voluntary
+CE000353,C01847,2026-03-14,Low Usage,Voluntary
+CE000354,C01852,2026-03-30,Missing Features,Voluntary
+CE000355,C01855,2026-05-04,Competitor,Voluntary
+CE000356,C01856,2026-06-02,Competitor,Voluntary
+CE000357,C01864,2026-02-13,Payment Failure,Involuntary
+CE000358,C01871,2026-05-06,Too Expensive,Voluntary
+CE000359,C01874,2026-03-16,Missing Features,Voluntary
+CE000360,C01877,2025-11-30,Payment Failure,Involuntary
+CE000361,C01879,2026-04-09,Payment Failure,Involuntary
+CE000362,C01881,2025-05-12,Payment Failure,Involuntary
+CE000363,C01882,2026-01-12,Missing Features,Voluntary
+CE000364,C01888,2026-04-19,Low Usage,Voluntary
+CE000365,C01889,2026-01-26,Missing Features,Voluntary
+CE000366,C01890,2026-04-04,Other,Voluntary
+CE000367,C01891,2026-04-02,Competitor,Voluntary
+CE000368,C01892,2026-03-05,Support Issues,Voluntary
+CE000369,C01898,2026-04-05,Competitor,Voluntary
+CE000370,C01901,2026-04-08,Other,Voluntary
+CE000371,C01918,2025-08-15,Poor Experience,Voluntary
+CE000372,C01919,2026-06-21,Missing Features,Voluntary
+CE000373,C01922,2026-02-15,Too Expensive,Voluntary
+CE000374,C01930,2026-04-03,Competitor,Voluntary
+CE000375,C01937,2026-06-25,Poor Experience,Voluntary
+CE000376,C01938,2026-04-20,Poor Experience,Voluntary
+CE000377,C01948,2026-01-29,Missing Features,Voluntary
+CE000378,C01950,2026-06-19,Payment Failure,Involuntary
+CE000379,C01952,2025-08-08,Too Expensive,Voluntary
+CE000380,C01957,2026-03-22,Poor Experience,Voluntary
+CE000381,C01961,2026-05-08,Competitor,Voluntary
+CE000382,C01962,2025-12-21,Too Expensive,Voluntary
+CE000383,C01966,2025-08-27,Payment Failure,Involuntary
+CE000384,C01971,2025-10-05,Support Issues,Voluntary
+CE000385,C01981,2026-06-02,Payment Failure,Involuntary
+CE000386,C01984,2025-12-18,Payment Failure,Involuntary
+CE000387,C01987,2025-11-21,Too Expensive,Voluntary
+CE000388,C01991,2026-04-27,Other,Voluntary
+CE000389,C01992,2025-10-26,Competitor,Voluntary
+CE000390,C01999,2026-02-28,Missing Features,Voluntary
+CE000391,C02003,2026-01-09,Poor Experience,Voluntary
+CE000392,C02004,2026-06-10,Too Expensive,Voluntary
+CE000393,C02005,2025-11-24,Low Usage,Voluntary
+CE000394,C02009,2026-06-21,Poor Experience,Voluntary
+CE000395,C02010,2025-09-22,Low Usage,Voluntary
+CE000396,C02018,2026-06-09,Too Expensive,Voluntary
+CE000397,C02032,2025-09-20,Too Expensive,Voluntary
+CE000398,C02041,2026-05-30,Payment Failure,Involuntary
+CE000399,C02042,2025-06-12,Low Usage,Voluntary
+CE000400,C02046,2025-10-08,Payment Failure,Involuntary
+CE000401,C02051,2026-05-27,Too Expensive,Voluntary
+CE000402,C02063,2025-12-27,Competitor,Voluntary
+CE000403,C02067,2026-06-13,Low Usage,Voluntary
+CE000404,C02074,2026-06-30,Low Usage,Voluntary
+CE000405,C02079,2026-02-21,Poor Experience,Voluntary
+CE000406,C02086,2026-03-23,Support Issues,Voluntary
+CE000407,C02088,2026-01-15,Payment Failure,Involuntary
+CE000408,C02090,2026-06-24,Too Expensive,Voluntary
+CE000409,C02091,2026-06-04,Payment Failure,Involuntary
+CE000410,C02093,2026-06-28,Poor Experience,Voluntary
+CE000411,C02096,2026-02-25,Low Usage,Voluntary
+CE000412,C02108,2026-05-30,Payment Failure,Involuntary
+CE000413,C02121,2025-09-01,Poor Experience,Voluntary
+CE000414,C02122,2026-01-07,Too Expensive,Voluntary
+CE000415,C02131,2026-04-03,Missing Features,Voluntary
+CE000416,C02146,2025-12-28,Poor Experience,Voluntary
+CE000417,C02148,2025-11-16,Too Expensive,Voluntary
+CE000418,C02153,2026-05-23,Payment Failure,Involuntary
+CE000419,C02154,2025-10-06,Competitor,Voluntary
+CE000420,C02155,2025-09-21,Support Issues,Voluntary
+CE000421,C02158,2026-02-28,Too Expensive,Voluntary
+CE000422,C02164,2025-09-23,Missing Features,Voluntary
+CE000423,C02172,2026-06-16,Support Issues,Voluntary
+CE000424,C02174,2025-12-22,Poor Experience,Voluntary
+CE000425,C02176,2025-11-12,Support Issues,Voluntary
+CE000426,C02184,2026-02-24,Other,Voluntary
+CE000427,C02186,2025-10-03,Too Expensive,Voluntary
+CE000428,C02192,2025-09-25,Low Usage,Voluntary
+CE000429,C02202,2026-06-14,Too Expensive,Voluntary
+CE000430,C02207,2026-05-31,Payment Failure,Involuntary
+CE000431,C02208,2026-04-04,Too Expensive,Voluntary
+CE000432,C02211,2026-05-01,Low Usage,Voluntary
+CE000433,C02216,2026-06-06,Low Usage,Voluntary
+CE000434,C02219,2026-02-19,Low Usage,Voluntary
+CE000435,C02220,2026-06-07,Low Usage,Voluntary
+CE000436,C02226,2026-04-29,Too Expensive,Voluntary
+CE000437,C02227,2026-04-06,Too Expensive,Voluntary
+CE000438,C02232,2026-04-15,Too Expensive,Voluntary
+CE000439,C02236,2026-01-06,Low Usage,Voluntary
+CE000440,C02241,2026-01-29,Poor Experience,Voluntary
+CE000441,C02247,2026-05-22,Low Usage,Voluntary
+CE000442,C02251,2026-04-30,Other,Voluntary
+CE000443,C02257,2026-04-25,Support Issues,Voluntary
+CE000444,C02266,2026-06-22,Other,Voluntary
+CE000445,C02270,2026-04-17,Support Issues,Voluntary
+CE000446,C02276,2026-06-20,Too Expensive,Voluntary
+CE000447,C02281,2025-07-02,Low Usage,Voluntary
+CE000448,C02288,2026-06-11,Too Expensive,Voluntary
+CE000449,C02299,2026-05-06,Too Expensive,Voluntary
+CE000450,C02305,2026-04-21,Missing Features,Voluntary
+CE000451,C02309,2025-11-28,Low Usage,Voluntary
+CE000452,C02315,2026-06-14,Missing Features,Voluntary
+CE000453,C02332,2026-05-20,Low Usage,Voluntary
+CE000454,C02335,2025-07-08,Other,Voluntary
+CE000455,C02338,2026-03-03,Poor Experience,Voluntary
+CE000456,C02351,2026-06-16,Too Expensive,Voluntary
+CE000457,C02353,2026-05-25,Missing Features,Voluntary
+CE000458,C02355,2026-04-18,Low Usage,Voluntary
+CE000459,C02362,2026-06-24,Low Usage,Voluntary
+CE000460,C02364,2026-05-25,Other,Voluntary
+CE000461,C02365,2026-06-20,Low Usage,Voluntary
+CE000462,C02367,2026-01-15,Low Usage,Voluntary
+CE000463,C02369,2025-11-12,Payment Failure,Involuntary
+CE000464,C02371,2026-05-15,Low Usage,Voluntary
+CE000465,C02375,2025-06-12,Poor Experience,Voluntary
+CE000466,C02391,2026-04-17,Payment Failure,Involuntary
+CE000467,C02394,2025-05-22,Low Usage,Voluntary
+CE000468,C02404,2026-06-10,Support Issues,Voluntary
+CE000469,C02409,2026-05-11,Too Expensive,Voluntary
+CE000470,C02416,2025-07-27,Competitor,Voluntary
+CE000471,C02432,2025-12-20,Payment Failure,Involuntary
+CE000472,C02437,2025-11-28,Low Usage,Voluntary
+CE000473,C02440,2025-11-27,Other,Voluntary
+CE000474,C02442,2026-03-28,Poor Experience,Voluntary
+CE000475,C02447,2026-05-14,Poor Experience,Voluntary
+CE000476,C02455,2025-04-09,Missing Features,Voluntary
+CE000477,C02472,2026-06-08,Low Usage,Voluntary
+CE000478,C02480,2026-01-02,Support Issues,Voluntary
+CE000479,C02482,2026-04-23,Other,Voluntary
+CE000480,C02488,2026-05-13,Competitor,Voluntary
+CE000481,C02490,2025-09-20,Poor Experience,Voluntary
+CE000482,C02491,2026-05-13,Payment Failure,Involuntary
+CE000483,C02495,2026-06-13,Payment Failure,Involuntary
+CE000484,C02496,2026-05-03,Competitor,Voluntary
+CE000485,C02497,2025-08-26,Too Expensive,Voluntary
+CE000486,C02500,2026-01-21,Other,Voluntary
+CE000487,C02514,2026-05-23,Support Issues,Voluntary
+CE000488,C02518,2026-03-31,Low Usage,Voluntary
+CE000489,C02519,2026-05-23,Missing Features,Voluntary
+CE000490,C02532,2026-06-15,Poor Experience,Voluntary
+CE000491,C02550,2026-02-11,Poor Experience,Voluntary
+CE000492,C02551,2026-03-14,Payment Failure,Involuntary
+CE000493,C02558,2026-01-31,Support Issues,Voluntary
+CE000494,C02561,2025-07-28,Other,Voluntary
+CE000495,C02566,2026-01-27,Competitor,Voluntary
+CE000496,C02570,2026-06-09,Too Expensive,Voluntary
+CE000497,C02579,2026-02-12,Payment Failure,Involuntary
+CE000498,C02586,2026-04-11,Poor Experience,Voluntary
+CE000499,C02590,2025-12-08,Support Issues,Voluntary
+CE000500,C02600,2026-03-20,Low Usage,Voluntary
+CE000501,C02601,2025-11-30,Other,Voluntary
+CE000502,C02602,2025-09-19,Low Usage,Voluntary
+CE000503,C02603,2025-10-06,Competitor,Voluntary
+CE000504,C02610,2026-06-06,Competitor,Voluntary
+CE000505,C02611,2026-04-23,Support Issues,Voluntary
+CE000506,C02621,2026-01-16,Competitor,Voluntary
+CE000507,C02622,2026-06-18,Too Expensive,Voluntary
+CE000508,C02623,2026-04-26,Poor Experience,Voluntary
+CE000509,C02628,2026-02-21,Payment Failure,Involuntary
+CE000510,C02633,2025-08-03,Missing Features,Voluntary
+CE000511,C02640,2026-02-09,Other,Voluntary
+CE000512,C02647,2026-03-31,Competitor,Voluntary
+CE000513,C02652,2026-01-23,Support Issues,Voluntary
+CE000514,C02653,2025-08-23,Poor Experience,Voluntary
+CE000515,C02656,2025-12-18,Low Usage,Voluntary
+CE000516,C02657,2026-06-05,Low Usage,Voluntary
+CE000517,C02661,2025-12-01,Too Expensive,Voluntary
+CE000518,C02669,2026-03-28,Low Usage,Voluntary
+CE000519,C02672,2025-09-26,Missing Features,Voluntary
+CE000520,C02681,2026-01-16,Low Usage,Voluntary
+CE000521,C02689,2026-02-27,Too Expensive,Voluntary
+CE000522,C02699,2026-03-18,Other,Voluntary
+CE000523,C02702,2026-01-14,Poor Experience,Voluntary
+CE000524,C02710,2025-08-06,Competitor,Voluntary
+CE000525,C02711,2026-02-09,Too Expensive,Voluntary
+CE000526,C02712,2026-04-22,Payment Failure,Involuntary
+CE000527,C02728,2026-03-01,Support Issues,Voluntary
+CE000528,C02732,2026-06-05,Low Usage,Voluntary
+CE000529,C02741,2026-05-25,Low Usage,Voluntary
+CE000530,C02744,2025-09-27,Other,Voluntary
+CE000531,C02746,2026-04-23,Low Usage,Voluntary
+CE000532,C02748,2026-05-13,Missing Features,Voluntary
+CE000533,C02751,2026-02-11,Missing Features,Voluntary
+CE000534,C02760,2025-06-27,Too Expensive,Voluntary
+CE000535,C02771,2026-05-23,Support Issues,Voluntary
+CE000536,C02772,2025-12-13,Poor Experience,Voluntary
+CE000537,C02773,2026-06-07,Competitor,Voluntary
+CE000538,C02776,2026-02-22,Low Usage,Voluntary
+CE000539,C02782,2025-12-31,Competitor,Voluntary
+CE000540,C02783,2026-04-01,Poor Experience,Voluntary
+CE000541,C02794,2026-04-18,Competitor,Voluntary
+CE000542,C02799,2025-09-16,Payment Failure,Involuntary
+CE000543,C02807,2026-06-10,Competitor,Voluntary
+CE000544,C02811,2026-04-18,Poor Experience,Voluntary
+CE000545,C02824,2025-12-16,Competitor,Voluntary
+CE000546,C02827,2025-09-17,Low Usage,Voluntary
+CE000547,C02828,2026-04-04,Too Expensive,Voluntary
+CE000548,C02837,2025-07-14,Missing Features,Voluntary
+CE000549,C02839,2025-11-26,Poor Experience,Voluntary
+CE000550,C02842,2026-06-24,Support Issues,Voluntary
+CE000551,C02844,2025-11-16,Low Usage,Voluntary
+CE000552,C02873,2026-03-26,Poor Experience,Voluntary
+CE000553,C02883,2026-03-07,Too Expensive,Voluntary
+CE000554,C02885,2026-06-17,Low Usage,Voluntary
+CE000555,C02889,2026-06-18,Payment Failure,Involuntary
+CE000556,C02890,2026-05-19,Too Expensive,Voluntary
+CE000557,C02895,2026-06-17,Other,Voluntary
+CE000558,C02906,2026-04-27,Payment Failure,Involuntary
+CE000559,C02916,2026-06-26,Support Issues,Voluntary
+CE000560,C02920,2025-07-05,Payment Failure,Involuntary
+CE000561,C02922,2026-03-11,Support Issues,Voluntary
+CE000562,C02932,2026-01-28,Too Expensive,Voluntary
+CE000563,C02938,2026-04-29,Poor Experience,Voluntary
+CE000564,C02948,2025-06-01,Competitor,Voluntary
+CE000565,C02953,2025-06-08,Payment Failure,Involuntary
+CE000566,C02958,2026-04-03,Payment Failure,Involuntary
+CE000567,C02962,2026-06-29,Poor Experience,Voluntary
+CE000568,C02969,2025-12-24,Too Expensive,Voluntary
+CE000569,C02974,2025-11-09,Support Issues,Voluntary
+CE000570,C02976,2026-02-17,Payment Failure,Involuntary
+CE000571,C02981,2026-06-22,Poor Experience,Voluntary
+CE000572,C02986,2025-12-07,Too Expensive,Voluntary
+CE000573,C02991,2025-12-07,Poor Experience,Voluntary
+CE000574,C03007,2026-06-05,Poor Experience,Voluntary
+CE000575,C03008,2026-04-21,Competitor,Voluntary
+CE000576,C03013,2026-04-29,Poor Experience,Voluntary
+CE000577,C03018,2026-01-05,Too Expensive,Voluntary
+CE000578,C03021,2026-05-22,Support Issues,Voluntary
+CE000579,C03024,2026-03-05,Payment Failure,Involuntary
+CE000580,C03028,2026-05-04,Poor Experience,Voluntary
+CE000581,C03032,2026-06-21,Payment Failure,Involuntary
+CE000582,C03034,2025-12-30,Poor Experience,Voluntary
+CE000583,C03042,2026-01-14,Too Expensive,Voluntary
+CE000584,C03044,2026-05-26,Too Expensive,Voluntary
+CE000585,C03045,2025-09-13,Low Usage,Voluntary
+CE000586,C03056,2026-03-05,Payment Failure,Involuntary
+CE000587,C03062,2026-06-30,Too Expensive,Voluntary
+CE000588,C03067,2026-02-22,Other,Voluntary
+CE000589,C03069,2025-06-15,Too Expensive,Voluntary
+CE000590,C03071,2026-06-06,Too Expensive,Voluntary
+CE000591,C03075,2026-04-19,Low Usage,Voluntary
+CE000592,C03082,2026-05-06,Competitor,Voluntary
+CE000593,C03087,2026-05-27,Other,Voluntary
+CE000594,C03093,2026-06-16,Other,Involuntary
+CE000595,C03097,2026-04-01,Low Usage,Voluntary
+CE000596,C03098,2026-04-23,Too Expensive,Voluntary
+CE000597,C03103,2025-10-28,Low Usage,Voluntary
+CE000598,C03105,2026-01-26,Competitor,Voluntary
+CE000599,C03110,2026-04-02,Low Usage,Voluntary
+CE000600,C03120,2026-03-26,Payment Failure,Involuntary
+CE000601,C03123,2026-04-16,Competitor,Voluntary
+CE000602,C03133,2026-02-02,Payment Failure,Involuntary
+CE000603,C03134,2025-06-16,Low Usage,Voluntary
+CE000604,C03136,2026-06-22,Missing Features,Voluntary
+CE000605,C03142,2026-03-11,Payment Failure,Involuntary
+CE000606,C03145,2026-06-09,Low Usage,Voluntary
+CE000607,C03147,2026-05-24,Payment Failure,Involuntary
+CE000608,C03150,2025-10-15,Payment Failure,Involuntary
+CE000609,C03161,2026-05-04,Other,Voluntary
+CE000610,C03162,2026-03-26,Support Issues,Voluntary
+CE000611,C03165,2025-10-30,Missing Features,Voluntary
+CE000612,C03171,2026-05-27,Low Usage,Voluntary
+CE000613,C03172,2026-03-02,Payment Failure,Involuntary
+CE000614,C03176,2026-06-28,Poor Experience,Voluntary
+CE000615,C03188,2026-04-25,Too Expensive,Voluntary
+CE000616,C03192,2025-04-30,Poor Experience,Voluntary
+CE000617,C03195,2026-04-16,Poor Experience,Voluntary
+CE000618,C03198,2025-11-28,Competitor,Voluntary
+CE000619,C03204,2026-02-27,Payment Failure,Involuntary
+CE000620,C03205,2025-12-27,Poor Experience,Voluntary
+CE000621,C03208,2026-05-05,Other,Voluntary
+CE000622,C03211,2026-06-27,Low Usage,Voluntary
+CE000623,C03217,2026-04-13,Poor Experience,Voluntary
+CE000624,C03220,2026-06-04,Too Expensive,Voluntary
+CE000625,C03221,2026-04-14,Missing Features,Voluntary
+CE000626,C03240,2026-06-13,Other,Voluntary
+CE000627,C03243,2026-05-19,Poor Experience,Voluntary
+CE000628,C03250,2026-01-01,Low Usage,Voluntary
+CE000629,C03264,2025-12-28,Payment Failure,Involuntary
+CE000630,C03272,2025-11-19,Support Issues,Involuntary
+CE000631,C03276,2025-09-13,Other,Voluntary
+CE000632,C03285,2026-04-20,Payment Failure,Involuntary
+CE000633,C03288,2026-05-19,Other,Voluntary
+CE000634,C03294,2025-11-29,Competitor,Voluntary
+CE000635,C03295,2026-06-18,Low Usage,Voluntary
+CE000636,C03302,2026-03-18,Too Expensive,Voluntary
+CE000637,C03304,2025-10-22,Other,Voluntary
+CE000638,C03315,2026-05-26,Missing Features,Voluntary
+CE000639,C03317,2025-08-06,Low Usage,Voluntary
+CE000640,C03331,2026-06-22,Other,Voluntary
+CE000641,C03334,2026-05-01,Missing Features,Voluntary
+CE000642,C03343,2026-05-20,Too Expensive,Voluntary
+CE000643,C03345,2025-04-16,Competitor,Voluntary
+CE000644,C03349,2026-03-29,Competitor,Voluntary
+CE000645,C03354,2025-06-10,Too Expensive,Voluntary
+CE000646,C03359,2026-03-15,Poor Experience,Voluntary
+CE000647,C03362,2025-12-30,Payment Failure,Involuntary
+CE000648,C03364,2026-05-11,Too Expensive,Voluntary
+CE000649,C03369,2026-04-24,Payment Failure,Involuntary
+CE000650,C03371,2026-04-30,Payment Failure,Involuntary
+CE000651,C03381,2026-06-04,Missing Features,Voluntary
+CE000652,C03393,2026-01-13,Competitor,Voluntary
+CE000653,C03394,2026-06-24,Support Issues,Voluntary
+CE000654,C03396,2026-03-20,Payment Failure,Involuntary
+CE000655,C03397,2026-06-30,Other,Voluntary
+CE000656,C03407,2026-03-11,Payment Failure,Involuntary
+CE000657,C03420,2026-01-31,Missing Features,Voluntary
+CE000658,C03422,2026-06-04,Other,Voluntary
+CE000659,C03431,2026-05-15,Poor Experience,Voluntary
+CE000660,C03456,2026-06-20,Too Expensive,Voluntary
+CE000661,C03458,2025-07-10,Payment Failure,Involuntary
+CE000662,C03460,2026-04-11,Support Issues,Voluntary
+CE000663,C03470,2026-05-02,Competitor,Voluntary
+CE000664,C03472,2026-05-17,Low Usage,Voluntary
+CE000665,C03475,2026-02-21,Too Expensive,Voluntary
+CE000666,C03490,2026-02-13,Payment Failure,Involuntary
+CE000667,C03493,2025-09-13,Missing Features,Voluntary
+CE000668,C03497,2025-12-18,Too Expensive,Voluntary
+CE000669,C03503,2025-12-26,Missing Features,Voluntary
+CE000670,C03505,2026-02-23,Missing Features,Voluntary
+CE000671,C03507,2025-11-29,Poor Experience,Voluntary
+CE000672,C03508,2025-12-22,Other,Voluntary
+CE000673,C03515,2026-04-02,Other,Voluntary
+CE000674,C03526,2026-02-03,Missing Features,Voluntary
+CE000675,C03533,2026-05-11,Payment Failure,Involuntary
+CE000676,C03535,2026-05-30,Low Usage,Voluntary
+CE000677,C03541,2025-07-22,Support Issues,Voluntary
+CE000678,C03544,2026-06-28,Low Usage,Voluntary
+CE000679,C03548,2026-01-06,Missing Features,Voluntary
+CE000680,C03549,2026-06-18,Payment Failure,Involuntary
+CE000681,C03551,2026-05-02,Poor Experience,Voluntary
+CE000682,C03558,2026-03-10,Low Usage,Voluntary
+CE000683,C03574,2026-06-04,Payment Failure,Involuntary
+CE000684,C03577,2025-12-01,Poor Experience,Voluntary
+CE000685,C03581,2025-12-02,Payment Failure,Involuntary
+CE000686,C03583,2025-06-25,Competitor,Voluntary
+CE000687,C03585,2026-06-08,Low Usage,Voluntary
+CE000688,C03598,2026-01-31,Poor Experience,Voluntary
+CE000689,C03600,2026-04-02,Support Issues,Voluntary
+CE000690,C03601,2026-03-13,Poor Experience,Voluntary
+CE000691,C03609,2025-12-18,Too Expensive,Voluntary
+CE000692,C03611,2025-11-21,Payment Failure,Involuntary
+CE000693,C03615,2025-07-02,Missing Features,Voluntary
+CE000694,C03618,2026-06-30,Poor Experience,Voluntary
+CE000695,C03619,2026-06-01,Poor Experience,Voluntary
+CE000696,C03624,2026-05-08,Other,Voluntary
+CE000697,C03629,2026-03-04,Missing Features,Voluntary
+CE000698,C03636,2026-05-28,Poor Experience,Voluntary
+CE000699,C03663,2026-05-03,Too Expensive,Voluntary
+CE000700,C03668,2026-03-05,Poor Experience,Voluntary
+CE000701,C03670,2026-02-20,Missing Features,Voluntary
+CE000702,C03673,2026-02-18,Too Expensive,Voluntary
+CE000703,C03677,2026-01-16,Too Expensive,Voluntary
+CE000704,C03682,2026-04-02,Low Usage,Voluntary
+CE000705,C03692,2026-06-15,Other,Voluntary
+CE000706,C03693,2026-01-02,Low Usage,Voluntary
+CE000707,C03696,2026-04-23,Support Issues,Voluntary
+CE000708,C03703,2026-03-16,Competitor,Voluntary
+CE000709,C03705,2026-06-22,Low Usage,Voluntary
+CE000710,C03710,2026-05-21,Support Issues,Voluntary
+CE000711,C03714,2025-12-18,Other,Voluntary
+CE000712,C03734,2026-04-29,Payment Failure,Involuntary
+CE000713,C03738,2026-01-25,Poor Experience,Voluntary
+CE000714,C03758,2026-06-18,Low Usage,Voluntary
+CE000715,C03763,2025-05-18,Payment Failure,Involuntary
+CE000716,C03773,2025-11-30,Low Usage,Voluntary
+CE000717,C03778,2026-05-15,Poor Experience,Voluntary
+CE000718,C03783,2026-03-05,Payment Failure,Involuntary
+CE000719,C03784,2026-05-05,Support Issues,Voluntary
+CE000720,C03786,2025-10-16,Low Usage,Voluntary
+CE000721,C03787,2026-05-29,Payment Failure,Involuntary
+CE000722,C03789,2026-04-27,Payment Failure,Involuntary
+CE000723,C03791,2025-11-14,Low Usage,Voluntary
+CE000724,C03799,2025-06-01,Too Expensive,Voluntary
+CE000725,C03802,2026-03-10,Support Issues,Voluntary
+CE000726,C03805,2026-04-15,Too Expensive,Voluntary
+CE000727,C03807,2025-08-23,Low Usage,Voluntary
+CE000728,C03808,2026-04-27,Missing Features,Voluntary
+CE000729,C03811,2026-04-24,Competitor,Voluntary
+CE000730,C03812,2026-04-27,Competitor,Involuntary
+CE000731,C03819,2026-05-31,Too Expensive,Voluntary
+CE000732,C03824,2025-12-25,Low Usage,Voluntary
+CE000733,C03830,2025-09-27,Too Expensive,Voluntary
+CE000734,C03843,2026-04-20,Too Expensive,Voluntary
+CE000735,C03853,2026-06-25,Low Usage,Voluntary
+CE000736,C03857,2025-04-27,Low Usage,Voluntary
+CE000737,C03859,2026-01-23,Missing Features,Voluntary
+CE000738,C03866,2026-04-30,Competitor,Voluntary
+CE000739,C03870,2026-01-28,Payment Failure,Involuntary
+CE000740,C03872,2026-06-23,Other,Voluntary
+CE000741,C03878,2025-08-19,Other,Voluntary
+CE000742,C03881,2026-04-16,Missing Features,Voluntary
+CE000743,C03883,2026-02-18,Too Expensive,Voluntary
+CE000744,C03885,2026-05-25,Payment Failure,Involuntary
+CE000745,C03893,2026-05-05,Payment Failure,Involuntary
+CE000746,C03898,2026-04-17,Payment Failure,Involuntary
+CE000747,C03905,2026-04-21,Poor Experience,Voluntary
+CE000748,C03908,2025-09-03,Too Expensive,Voluntary
+CE000749,C03911,2026-05-17,Missing Features,Voluntary
+CE000750,C03923,2026-06-29,Low Usage,Voluntary
+CE000751,C03930,2025-12-02,Other,Voluntary
+CE000752,C03961,2026-03-22,Low Usage,Voluntary
+CE000753,C03964,2026-03-23,Too Expensive,Voluntary
+CE000754,C03966,2026-02-25,Other,Voluntary
+CE000755,C03968,2026-06-10,Payment Failure,Involuntary
+CE000756,C03974,2025-07-26,Low Usage,Voluntary
+CE000757,C03975,2026-04-03,Too Expensive,Voluntary
+CE000758,C03976,2026-06-04,Poor Experience,Voluntary
+CE000759,C03981,2025-06-10,Poor Experience,Voluntary
+CE000760,C03988,2026-02-20,Competitor,Voluntary
+CE000761,C03989,2026-04-24,Too Expensive,Voluntary
+CE000762,C03994,2026-01-10,Missing Features,Voluntary
+CE000763,C03995,2026-05-29,Missing Features,Voluntary
+CE000764,C04007,2026-06-21,Poor Experience,Voluntary
+CE000765,C04009,2025-07-02,Missing Features,Voluntary
+CE000766,C04011,2026-06-02,Other,Voluntary
+CE000767,C04014,2026-06-06,Poor Experience,Voluntary
+CE000768,C04016,2025-12-10,Payment Failure,Involuntary
+CE000769,C04019,2026-05-14,Too Expensive,Voluntary
+CE000770,C04020,2026-06-18,Low Usage,Voluntary
+CE000771,C04026,2026-04-03,Poor Experience,Voluntary
+CE000772,C04027,2026-04-25,Too Expensive,Voluntary
+CE000773,C04030,2026-06-13,Competitor,Voluntary
+CE000774,C04031,2026-05-16,Low Usage,Voluntary
+CE000775,C04032,2026-05-16,Other,Voluntary
+CE000776,C04033,2026-06-03,Competitor,Voluntary
+CE000777,C04042,2025-09-18,Support Issues,Voluntary
+CE000778,C04044,2025-11-30,Low Usage,Voluntary
+CE000779,C04048,2026-01-18,Payment Failure,Involuntary
+CE000780,C04050,2025-10-14,Payment Failure,Involuntary
+CE000781,C04055,2025-04-25,Poor Experience,Voluntary
+CE000782,C04056,2025-09-08,Poor Experience,Voluntary
+CE000783,C04064,2026-06-13,Missing Features,Voluntary
+CE000784,C04066,2025-03-17,Too Expensive,Voluntary
+CE000785,C04069,2026-06-16,Other,Involuntary
+CE000786,C04072,2025-11-04,Competitor,Voluntary
+CE000787,C04073,2026-06-03,Payment Failure,Involuntary
+CE000788,C04080,2026-03-24,Other,Voluntary
+CE000789,C04088,2025-11-30,Poor Experience,Voluntary
+CE000790,C04090,2025-04-21,Poor Experience,Voluntary
+CE000791,C04093,2026-06-16,Low Usage,Voluntary
+CE000792,C04105,2025-08-12,Low Usage,Voluntary
+CE000793,C04115,2026-05-30,Poor Experience,Voluntary
+CE000794,C04126,2026-06-12,Too Expensive,Voluntary
+CE000795,C04127,2025-08-05,Competitor,Voluntary
+CE000796,C04130,2025-11-23,Missing Features,Voluntary
+CE000797,C04138,2026-05-28,Low Usage,Voluntary
+CE000798,C04145,2026-06-04,Too Expensive,Voluntary
+CE000799,C04146,2025-12-09,Competitor,Voluntary
+CE000800,C04149,2026-01-23,Poor Experience,Voluntary
+CE000801,C04151,2025-08-20,Poor Experience,Voluntary
+CE000802,C04170,2026-06-30,Competitor,Voluntary
+CE000803,C04179,2026-06-15,Too Expensive,Voluntary
+CE000804,C04182,2026-02-20,Payment Failure,Involuntary
+CE000805,C04186,2026-05-03,Missing Features,Voluntary
+CE000806,C04189,2026-06-12,Poor Experience,Voluntary
+CE000807,C04190,2025-05-15,Other,Voluntary
+CE000808,C04192,2026-03-02,Competitor,Voluntary
+CE000809,C04194,2026-03-19,Poor Experience,Voluntary
+CE000810,C04195,2026-05-22,Low Usage,Voluntary
+CE000811,C04196,2026-06-12,Competitor,Voluntary
+CE000812,C04204,2026-06-06,Poor Experience,Voluntary
+CE000813,C04218,2025-09-25,Missing Features,Voluntary
+CE000814,C04219,2025-04-14,Low Usage,Voluntary
+CE000815,C04231,2026-03-10,Missing Features,Voluntary
+CE000816,C04233,2026-05-18,Missing Features,Voluntary
+CE000817,C04246,2026-06-13,Low Usage,Voluntary
+CE000818,C04258,2025-10-12,Too Expensive,Voluntary
+CE000819,C04265,2026-06-09,Payment Failure,Involuntary
+CE000820,C04268,2025-10-19,Too Expensive,Voluntary
+CE000821,C04270,2026-05-10,Too Expensive,Voluntary
+CE000822,C04271,2026-01-28,Low Usage,Voluntary
+CE000823,C04272,2026-05-20,Too Expensive,Voluntary
+CE000824,C04273,2026-03-22,Missing Features,Voluntary
+CE000825,C04275,2026-04-09,Payment Failure,Involuntary
+CE000826,C04280,2025-11-04,Missing Features,Voluntary
+CE000827,C04282,2026-01-16,Other,Voluntary
+CE000828,C04284,2026-03-17,Payment Failure,Involuntary
+CE000829,C04289,2026-02-22,Other,Voluntary
+CE000830,C04302,2026-06-23,Payment Failure,Involuntary
+CE000831,C04310,2025-09-04,Competitor,Voluntary
+CE000832,C04312,2026-06-27,Too Expensive,Voluntary
+CE000833,C04318,2026-02-21,Poor Experience,Voluntary
+CE000834,C04320,2025-06-23,Payment Failure,Involuntary
+CE000835,C04323,2025-06-12,Payment Failure,Involuntary
+CE000836,C04327,2025-09-01,Payment Failure,Involuntary
+CE000837,C04328,2025-12-16,Poor Experience,Voluntary
+CE000838,C04335,2026-03-25,Low Usage,Voluntary
+CE000839,C04345,2026-01-04,Missing Features,Voluntary
+CE000840,C04347,2026-04-20,Payment Failure,Involuntary
+CE000841,C04351,2025-11-05,Payment Failure,Involuntary
+CE000842,C04357,2025-12-18,Payment Failure,Involuntary
+CE000843,C04358,2026-04-21,Too Expensive,Voluntary
+CE000844,C04363,2026-04-15,Other,Voluntary
+CE000845,C04366,2026-04-20,Too Expensive,Voluntary
+CE000846,C04367,2026-02-16,Too Expensive,Voluntary
+CE000847,C04378,2025-10-13,Too Expensive,Voluntary
+CE000848,C04379,2026-05-27,Support Issues,Voluntary
+CE000849,C04380,2026-06-06,Low Usage,Voluntary
+CE000850,C04386,2025-10-11,Support Issues,Voluntary
+CE000851,C04389,2026-02-10,Low Usage,Voluntary
+CE000852,C04399,2026-05-11,Competitor,Voluntary
+CE000853,C04403,2025-11-01,Low Usage,Voluntary
+CE000854,C04414,2025-08-24,Support Issues,Voluntary
+CE000855,C04440,2026-05-06,Other,Voluntary
+CE000856,C04441,2026-02-27,Too Expensive,Voluntary
+CE000857,C04443,2025-11-12,Support Issues,Voluntary
+CE000858,C04449,2026-05-25,Other,Voluntary
+CE000859,C04450,2026-04-14,Missing Features,Voluntary
+CE000860,C04453,2025-02-27,Other,Voluntary
+CE000861,C04457,2026-02-27,Missing Features,Voluntary
+CE000862,C04461,2026-06-16,Payment Failure,Involuntary
+CE000863,C04468,2026-05-19,Support Issues,Voluntary
+CE000864,C04479,2026-06-17,Support Issues,Voluntary
+CE000865,C04480,2026-04-07,Missing Features,Voluntary
+CE000866,C04492,2026-04-24,Support Issues,Voluntary
+CE000867,C04507,2025-11-30,Competitor,Voluntary
+CE000868,C04508,2026-06-25,Too Expensive,Voluntary
+CE000869,C04517,2026-06-03,Payment Failure,Involuntary
+CE000870,C04519,2026-06-14,Payment Failure,Involuntary
+CE000871,C04530,2026-06-23,Payment Failure,Involuntary
+CE000872,C04535,2026-04-21,Poor Experience,Voluntary
+CE000873,C04537,2026-01-15,Competitor,Voluntary
+CE000874,C04538,2026-03-11,Missing Features,Voluntary
+CE000875,C04539,2026-06-17,Competitor,Voluntary
+CE000876,C04545,2026-04-07,Poor Experience,Voluntary
+CE000877,C04547,2026-06-01,Poor Experience,Voluntary
+CE000878,C04553,2026-02-08,Competitor,Voluntary
+CE000879,C04555,2026-06-13,Support Issues,Voluntary
+CE000880,C04565,2026-05-06,Too Expensive,Voluntary
+CE000881,C04566,2025-09-06,Low Usage,Voluntary
+CE000882,C04571,2026-05-26,Other,Involuntary
+CE000883,C04574,2026-05-27,Payment Failure,Involuntary
+CE000884,C04580,2026-03-10,Too Expensive,Voluntary
+CE000885,C04586,2026-04-25,Too Expensive,Voluntary
+CE000886,C04593,2026-02-20,Low Usage,Voluntary
+CE000887,C04599,2026-06-23,Low Usage,Voluntary
+CE000888,C04609,2026-03-24,Competitor,Voluntary
+CE000889,C04611,2026-02-17,Other,Voluntary
+CE000890,C04613,2026-04-23,Payment Failure,Involuntary
+CE000891,C04627,2025-11-08,Missing Features,Voluntary
+CE000892,C04635,2025-11-22,Payment Failure,Involuntary
+CE000893,C04640,2025-08-08,Too Expensive,Voluntary
+CE000894,C04643,2025-10-24,Support Issues,Voluntary
+CE000895,C04646,2026-01-12,Low Usage,Voluntary
+CE000896,C04647,2026-02-22,Missing Features,Voluntary
+CE000897,C04648,2025-12-19,Competitor,Voluntary
+CE000898,C04650,2025-07-31,Support Issues,Voluntary
+CE000899,C04666,2026-06-01,Support Issues,Voluntary
+CE000900,C04670,2025-11-17,Low Usage,Voluntary
+CE000901,C04681,2026-05-25,Poor Experience,Voluntary
+CE000902,C04689,2026-02-27,Other,Voluntary
+CE000903,C04690,2026-05-14,Missing Features,Voluntary
+CE000904,C04695,2026-02-25,Too Expensive,Voluntary
+CE000905,C04698,2026-03-14,Low Usage,Voluntary
+CE000906,C04700,2026-05-08,Poor Experience,Voluntary
+CE000907,C04701,2026-06-04,Too Expensive,Voluntary
+CE000908,C04704,2025-12-24,Poor Experience,Voluntary
+CE000909,C04705,2025-12-05,Low Usage,Voluntary
+CE000910,C04706,2025-08-16,Competitor,Voluntary
+CE000911,C04709,2026-05-15,Low Usage,Voluntary
+CE000912,C04711,2026-05-15,Low Usage,Voluntary
+CE000913,C04729,2025-12-07,Other,Involuntary
+CE000914,C04731,2026-06-02,Poor Experience,Voluntary
+CE000915,C04743,2025-05-29,Too Expensive,Voluntary
+CE000916,C04747,2026-05-20,Missing Features,Voluntary
+CE000917,C04749,2025-04-03,Other,Voluntary
+CE000918,C04752,2026-02-08,Poor Experience,Voluntary
+CE000919,C04754,2026-03-26,Competitor,Voluntary
+CE000920,C04764,2026-01-22,Poor Experience,Voluntary
+CE000921,C04771,2026-02-21,Other,Voluntary
+CE000922,C04772,2025-09-19,Support Issues,Voluntary
+CE000923,C04779,2026-06-02,Other,Voluntary
+CE000924,C04780,2025-12-13,Poor Experience,Voluntary
+CE000925,C04783,2026-03-31,Payment Failure,Involuntary
+CE000926,C04784,2025-09-11,Competitor,Voluntary
+CE000927,C04788,2026-06-28,Payment Failure,Involuntary
+CE000928,C04790,2026-06-04,Competitor,Voluntary
+CE000929,C04791,2026-05-16,Missing Features,Voluntary
+CE000930,C04811,2026-04-27,Too Expensive,Voluntary
+CE000931,C04812,2025-08-18,Payment Failure,Involuntary
+CE000932,C04820,2026-01-16,Missing Features,Voluntary
+CE000933,C04828,2026-05-09,Poor Experience,Voluntary
+CE000934,C04829,2026-06-03,Payment Failure,Involuntary
+CE000935,C04837,2026-05-14,Support Issues,Voluntary
+CE000936,C04840,2025-11-20,Other,Voluntary
+CE000937,C04842,2026-05-25,Low Usage,Voluntary
+CE000938,C04867,2026-01-01,Missing Features,Voluntary
+CE000939,C04872,2026-06-15,Low Usage,Voluntary
+CE000940,C04876,2026-04-25,Poor Experience,Voluntary
+CE000941,C04880,2026-06-19,Competitor,Voluntary
+CE000942,C04881,2026-03-02,Support Issues,Voluntary
+CE000943,C04887,2025-06-22,Too Expensive,Voluntary
+CE000944,C04898,2026-03-30,Competitor,Voluntary
+CE000945,C04903,2026-05-25,Competitor,Voluntary
+CE000946,C04910,2026-06-26,Too Expensive,Voluntary
+CE000947,C04918,2026-02-07,Poor Experience,Voluntary
+CE000948,C04934,2026-05-31,Too Expensive,Voluntary
+CE000949,C04941,2025-12-18,Competitor,Voluntary
+CE000950,C04947,2026-02-20,Low Usage,Voluntary
+CE000951,C04951,2026-05-12,Too Expensive,Voluntary
+CE000952,C04952,2026-06-02,Too Expensive,Voluntary
+CE000953,C04955,2026-06-10,Poor Experience,Voluntary
+CE000954,C04956,2025-11-18,Competitor,Voluntary
+CE000955,C04957,2026-04-10,Other,Voluntary
+CE000956,C04960,2025-09-26,Other,Voluntary
+CE000957,C04962,2026-05-17,Low Usage,Voluntary
+CE000958,C04965,2026-02-23,Competitor,Voluntary
+CE000959,C04976,2026-05-05,Payment Failure,Involuntary
+CE000960,C04981,2026-02-15,Support Issues,Voluntary
+CE000961,C04982,2026-01-17,Other,Voluntary
+CE000962,C04991,2025-08-18,Missing Features,Voluntary
+CE000963,C04996,2025-12-03,Other,Voluntary
+CE000964,C04999,2025-07-02,Other,Voluntary
+CE000965,C05013,2025-05-21,Competitor,Voluntary
+CE000966,C05015,2025-04-09,Poor Experience,Voluntary
+CE000967,C05016,2026-06-12,Other,Voluntary
+CE000968,C05024,2025-08-23,Poor Experience,Voluntary
+CE000969,C05031,2025-08-17,Other,Voluntary
+CE000970,C05040,2025-02-12,Low Usage,Voluntary
+CE000971,C05047,2026-03-27,Too Expensive,Voluntary
+CE000972,C05049,2026-04-09,Payment Failure,Involuntary
+CE000973,C05050,2026-05-16,Payment Failure,Involuntary
+CE000974,C05051,2026-06-08,Poor Experience,Voluntary
+CE000975,C05058,2026-05-03,Too Expensive,Voluntary
+CE000976,C05063,2025-05-28,Too Expensive,Voluntary
+CE000977,C05070,2025-07-12,Low Usage,Voluntary
+CE000978,C05071,2025-04-01,Missing Features,Voluntary
+CE000979,C05083,2026-02-04,Competitor,Voluntary
+CE000980,C05099,2026-05-10,Competitor,Voluntary
+CE000981,C05109,2025-12-27,Too Expensive,Voluntary
+CE000982,C05110,2026-01-06,Low Usage,Voluntary
+CE000983,C05112,2026-05-22,Competitor,Voluntary
+CE000984,C05114,2025-03-05,Other,Involuntary
+CE000985,C05117,2026-02-14,Payment Failure,Involuntary
+CE000986,C05118,2026-05-19,Poor Experience,Voluntary
+CE000987,C05123,2026-03-29,Low Usage,Voluntary
+CE000988,C05128,2026-02-17,Support Issues,Voluntary
+CE000989,C05134,2026-01-09,Competitor,Voluntary
+CE000990,C05147,2026-04-22,Payment Failure,Involuntary
+CE000991,C05149,2026-05-09,Too Expensive,Voluntary
+CE000992,C05150,2026-03-07,Other,Voluntary
+CE000993,C05157,2026-06-30,Payment Failure,Involuntary
+CE000994,C05159,2026-05-01,Support Issues,Voluntary
+CE000995,C05169,2025-12-27,Competitor,Voluntary
+CE000996,C05170,2026-02-22,Payment Failure,Involuntary
+CE000997,C05171,2025-05-25,Low Usage,Voluntary
+CE000998,C05182,2026-01-26,Payment Failure,Involuntary
+CE000999,C05189,2025-10-30,Low Usage,Voluntary
+CE001000,C05190,2026-01-18,Support Issues,Voluntary
+CE001001,C05206,2026-06-11,Too Expensive,Voluntary
+CE001002,C05217,2026-05-04,Low Usage,Voluntary
+CE001003,C05218,2026-03-22,Competitor,Voluntary
+CE001004,C05220,2026-01-17,Support Issues,Voluntary
+CE001005,C05221,2026-06-09,Poor Experience,Voluntary
+CE001006,C05222,2026-05-23,Too Expensive,Voluntary
+CE001007,C05224,2025-08-16,Too Expensive,Voluntary
+CE001008,C05233,2025-08-31,Payment Failure,Involuntary
+CE001009,C05237,2025-10-02,Low Usage,Voluntary
+CE001010,C05248,2026-02-08,Competitor,Voluntary
+CE001011,C05256,2025-08-30,Low Usage,Voluntary
+CE001012,C05267,2025-12-27,Payment Failure,Involuntary
+CE001013,C05268,2026-05-19,Payment Failure,Involuntary
+CE001014,C05279,2026-06-11,Competitor,Involuntary
+CE001015,C05280,2026-05-12,Other,Voluntary
+CE001016,C05281,2026-03-11,Payment Failure,Involuntary
+CE001017,C05287,2026-05-31,Competitor,Voluntary
+CE001018,C05288,2026-05-06,Too Expensive,Voluntary
+CE001019,C05292,2026-05-31,Low Usage,Voluntary
+CE001020,C05295,2026-05-08,Payment Failure,Involuntary
+CE001021,C05304,2026-06-02,Low Usage,Voluntary
+CE001022,C05308,2026-03-21,Missing Features,Voluntary
+CE001023,C05311,2026-05-02,Payment Failure,Involuntary
+CE001024,C05330,2025-12-03,Too Expensive,Voluntary
+CE001025,C05338,2025-10-09,Other,Voluntary
+CE001026,C05340,2025-08-27,Competitor,Voluntary
+CE001027,C05342,2026-06-17,Too Expensive,Voluntary
+CE001028,C05356,2025-04-28,Poor Experience,Voluntary
+CE001029,C05357,2026-06-30,Low Usage,Voluntary
+CE001030,C05358,2026-01-18,Missing Features,Voluntary
+CE001031,C05362,2026-04-06,Support Issues,Voluntary
+CE001032,C05363,2025-12-31,Support Issues,Voluntary
+CE001033,C05369,2025-10-31,Missing Features,Voluntary
+CE001034,C05370,2026-05-21,Low Usage,Voluntary
+CE001035,C05381,2025-09-25,Competitor,Voluntary
+CE001036,C05383,2025-07-21,Payment Failure,Involuntary
+CE001037,C05387,2026-05-27,Low Usage,Voluntary
+CE001038,C05391,2026-04-12,Support Issues,Voluntary
+CE001039,C05392,2026-06-10,Competitor,Voluntary
+CE001040,C05398,2026-01-09,Missing Features,Voluntary
+CE001041,C05419,2026-04-14,Low Usage,Voluntary
+CE001042,C05423,2026-03-26,Competitor,Voluntary
+CE001043,C05426,2026-01-07,Payment Failure,Involuntary
+CE001044,C05429,2026-05-05,Poor Experience,Voluntary
+CE001045,C05442,2025-03-02,Too Expensive,Voluntary
+CE001046,C05445,2026-02-17,Payment Failure,Involuntary
+CE001047,C05447,2026-06-11,Other,Voluntary
+CE001048,C05450,2026-03-13,Missing Features,Voluntary
+CE001049,C05456,2026-04-26,Missing Features,Voluntary
+CE001050,C05460,2026-05-10,Low Usage,Voluntary
+CE001051,C05469,2026-02-12,Missing Features,Voluntary
+CE001052,C05470,2025-07-31,Payment Failure,Involuntary
+CE001053,C05474,2026-04-24,Poor Experience,Voluntary
+CE001054,C05477,2026-04-27,Missing Features,Voluntary
+CE001055,C05484,2025-07-10,Poor Experience,Voluntary
+CE001056,C05486,2025-09-18,Low Usage,Voluntary
+CE001057,C05487,2026-04-01,Too Expensive,Voluntary
+CE001058,C05488,2026-03-11,Low Usage,Voluntary
+CE001059,C05491,2025-04-27,Other,Voluntary
+CE001060,C05492,2026-04-30,Other,Voluntary
+CE001061,C05501,2026-02-11,Support Issues,Voluntary
+CE001062,C05509,2026-06-13,Missing Features,Voluntary
+CE001063,C05511,2026-02-07,Other,Voluntary
+CE001064,C05513,2026-03-24,Support Issues,Voluntary
+CE001065,C05519,2026-03-18,Payment Failure,Involuntary
+CE001066,C05526,2026-06-17,Competitor,Voluntary
+CE001067,C05542,2025-08-15,Support Issues,Voluntary
+CE001068,C05547,2025-07-02,Payment Failure,Involuntary
+CE001069,C05554,2026-05-02,Low Usage,Voluntary
+CE001070,C05559,2026-03-15,Payment Failure,Involuntary
+CE001071,C05580,2025-10-17,Payment Failure,Involuntary
+CE001072,C05585,2025-12-18,Payment Failure,Involuntary
+CE001073,C05586,2025-08-26,Poor Experience,Voluntary
+CE001074,C05587,2025-05-17,Too Expensive,Voluntary
+CE001075,C05590,2026-05-09,Other,Voluntary
+CE001076,C05595,2025-08-23,Low Usage,Voluntary
+CE001077,C05598,2026-06-07,Payment Failure,Involuntary
+CE001078,C05599,2025-09-29,Missing Features,Voluntary
+CE001079,C05609,2025-06-04,Payment Failure,Involuntary
+CE001080,C05620,2026-03-22,Too Expensive,Voluntary
+CE001081,C05625,2025-10-18,Missing Features,Voluntary
+CE001082,C05626,2026-06-17,Support Issues,Involuntary
+CE001083,C05627,2026-02-18,Low Usage,Voluntary
+CE001084,C05631,2026-05-26,Poor Experience,Voluntary
+CE001085,C05638,2026-04-11,Missing Features,Voluntary
+CE001086,C05647,2026-05-07,Competitor,Voluntary
+CE001087,C05655,2026-04-25,Support Issues,Voluntary
+CE001088,C05665,2025-07-23,Other,Voluntary
+CE001089,C05677,2026-05-21,Competitor,Voluntary
+CE001090,C05683,2026-02-12,Payment Failure,Involuntary
+CE001091,C05686,2026-03-18,Too Expensive,Voluntary
+CE001092,C05695,2026-04-26,Other,Voluntary
+CE001093,C05703,2025-09-13,Competitor,Voluntary
+CE001094,C05707,2025-10-25,Payment Failure,Involuntary
+CE001095,C05714,2026-02-28,Poor Experience,Voluntary
+CE001096,C05722,2025-12-29,Support Issues,Voluntary
+CE001097,C05726,2026-06-04,Poor Experience,Voluntary
+CE001098,C05735,2026-03-05,Payment Failure,Involuntary
+CE001099,C05736,2026-05-12,Poor Experience,Voluntary
+CE001100,C05744,2026-06-13,Poor Experience,Voluntary
+CE001101,C05746,2026-03-14,Poor Experience,Voluntary
+CE001102,C05748,2026-04-29,Low Usage,Voluntary
+CE001103,C05754,2025-12-04,Low Usage,Voluntary
+CE001104,C05756,2026-02-05,Low Usage,Voluntary
+CE001105,C05768,2025-12-22,Poor Experience,Voluntary
+CE001106,C05774,2025-07-28,Competitor,Voluntary
+CE001107,C05776,2026-01-26,Competitor,Voluntary
+CE001108,C05777,2025-08-13,Low Usage,Voluntary
+CE001109,C05780,2026-01-25,Payment Failure,Involuntary
+CE001110,C05783,2026-06-29,Payment Failure,Involuntary
+CE001111,C05814,2026-06-01,Missing Features,Voluntary
+CE001112,C05821,2025-12-21,Payment Failure,Involuntary
+CE001113,C05826,2026-06-06,Support Issues,Involuntary
+CE001114,C05828,2026-06-25,Low Usage,Voluntary
+CE001115,C05829,2025-08-19,Other,Voluntary
+CE001116,C05834,2026-02-19,Poor Experience,Voluntary
+CE001117,C05838,2026-05-26,Missing Features,Voluntary
+CE001118,C05841,2026-03-13,Too Expensive,Voluntary
+CE001119,C05850,2026-06-19,Missing Features,Voluntary
+CE001120,C05856,2025-10-30,Payment Failure,Involuntary
+CE001121,C05862,2026-04-21,Poor Experience,Voluntary
+CE001122,C05863,2025-10-11,Missing Features,Voluntary
+CE001123,C05870,2026-06-11,Too Expensive,Voluntary
+CE001124,C05875,2026-04-01,Other,Voluntary
+CE001125,C05877,2026-06-10,Support Issues,Voluntary
+CE001126,C05883,2026-05-19,Competitor,Voluntary
+CE001127,C05900,2026-04-24,Other,Involuntary
+CE001128,C05904,2026-04-14,Competitor,Voluntary
+CE001129,C05908,2025-11-16,Poor Experience,Voluntary
+CE001130,C05912,2026-03-26,Other,Voluntary
+CE001131,C05915,2026-03-06,Poor Experience,Voluntary
+CE001132,C05918,2026-06-18,Competitor,Voluntary
+CE001133,C05919,2025-08-05,Poor Experience,Voluntary
+CE001134,C05922,2026-05-05,Payment Failure,Involuntary
+CE001135,C05925,2026-02-25,Low Usage,Voluntary
+CE001136,C05936,2026-06-04,Payment Failure,Involuntary
+CE001137,C05937,2026-04-16,Competitor,Voluntary
+CE001138,C05940,2025-02-11,Payment Failure,Involuntary
+CE001139,C05941,2026-03-28,Low Usage,Voluntary
+CE001140,C05943,2025-12-25,Other,Voluntary
+CE001141,C05944,2026-02-08,Payment Failure,Involuntary
+CE001142,C05947,2026-04-17,Low Usage,Voluntary
+CE001143,C05948,2026-01-02,Support Issues,Voluntary
+CE001144,C05950,2026-05-06,Low Usage,Voluntary
+CE001145,C05961,2026-06-19,Payment Failure,Involuntary
+CE001146,C05964,2025-04-17,Low Usage,Voluntary
+CE001147,C05975,2026-01-09,Missing Features,Voluntary
+CE001148,C05987,2025-10-02,Too Expensive,Voluntary
+CE001149,C05990,2026-05-09,Low Usage,Voluntary
+CE001150,C06002,2026-01-17,Poor Experience,Voluntary
+CE001151,C06007,2026-02-17,Low Usage,Voluntary
+CE001152,C06009,2026-04-07,Too Expensive,Voluntary
+CE001153,C06015,2026-04-13,Other,Voluntary
+CE001154,C06022,2025-09-14,Low Usage,Voluntary
+CE001155,C06027,2026-06-13,Payment Failure,Involuntary
+CE001156,C06028,2026-05-11,Competitor,Voluntary
+CE001157,C06029,2025-05-08,Missing Features,Voluntary
+CE001158,C06031,2026-06-24,Support Issues,Voluntary
+CE001159,C06040,2026-01-03,Missing Features,Voluntary
+CE001160,C06046,2026-02-07,Poor Experience,Voluntary
+CE001161,C06049,2026-03-11,Low Usage,Voluntary
+CE001162,C06052,2025-08-12,Low Usage,Voluntary
+CE001163,C06053,2026-06-27,Payment Failure,Involuntary
+CE001164,C06054,2025-07-15,Poor Experience,Voluntary
+CE001165,C06079,2026-06-12,Too Expensive,Voluntary
+CE001166,C06082,2026-05-31,Other,Voluntary
+CE001167,C06086,2025-11-07,Low Usage,Voluntary
+CE001168,C06097,2026-06-29,Low Usage,Voluntary
+CE001169,C06108,2025-12-15,Low Usage,Voluntary
+CE001170,C06114,2026-04-20,Payment Failure,Involuntary
+CE001171,C06128,2025-08-02,Competitor,Voluntary
+CE001172,C06137,2026-02-24,Low Usage,Voluntary
+CE001173,C06138,2025-03-02,Low Usage,Voluntary
+CE001174,C06139,2026-06-05,Missing Features,Voluntary
+CE001175,C06146,2026-01-30,Missing Features,Voluntary
+CE001176,C06151,2026-04-21,Too Expensive,Voluntary
+CE001177,C06157,2025-10-09,Poor Experience,Voluntary
+CE001178,C06161,2026-03-23,Payment Failure,Involuntary
+CE001179,C06165,2025-03-24,Too Expensive,Voluntary
+CE001180,C06166,2025-11-08,Support Issues,Voluntary
+CE001181,C06167,2026-04-29,Competitor,Voluntary
+CE001182,C06168,2026-04-18,Too Expensive,Voluntary
+CE001183,C06169,2026-04-08,Low Usage,Voluntary
+CE001184,C06174,2025-11-30,Payment Failure,Involuntary
+CE001185,C06178,2025-11-30,Payment Failure,Involuntary
+CE001186,C06186,2026-03-22,Payment Failure,Involuntary
+CE001187,C06201,2026-01-20,Poor Experience,Voluntary
+CE001188,C06206,2026-03-04,Other,Voluntary
+CE001189,C06217,2026-01-10,Poor Experience,Voluntary
+CE001190,C06222,2026-01-19,Low Usage,Voluntary
+CE001191,C06232,2025-07-28,Too Expensive,Voluntary
+CE001192,C06233,2026-04-07,Poor Experience,Voluntary
+CE001193,C06234,2026-05-24,Other,Voluntary
+CE001194,C06241,2026-06-13,Other,Voluntary
+CE001195,C06242,2026-05-25,Support Issues,Voluntary
+CE001196,C06246,2026-06-07,Low Usage,Voluntary
+CE001197,C06248,2026-03-25,Too Expensive,Voluntary
+CE001198,C06259,2026-02-13,Other,Voluntary
+CE001199,C06273,2026-04-23,Too Expensive,Voluntary
+CE001200,C06275,2026-04-19,Too Expensive,Voluntary
+CE001201,C06282,2026-06-13,Too Expensive,Voluntary
+CE001202,C06284,2026-05-10,Missing Features,Voluntary
+CE001203,C06289,2026-01-25,Other,Voluntary
+CE001204,C06294,2025-08-19,Other,Voluntary
+CE001205,C06297,2026-03-21,Poor Experience,Voluntary
+CE001206,C06298,2026-01-30,Poor Experience,Voluntary
+CE001207,C06299,2026-06-30,Too Expensive,Voluntary
+CE001208,C06300,2026-05-24,Payment Failure,Involuntary
+CE001209,C06301,2026-01-12,Too Expensive,Voluntary
+CE001210,C06308,2026-03-12,Other,Voluntary
+CE001211,C06321,2025-08-16,Too Expensive,Voluntary
+CE001212,C06328,2026-06-11,Poor Experience,Voluntary
+CE001213,C06338,2026-02-15,Poor Experience,Voluntary
+CE001214,C06358,2026-04-06,Low Usage,Voluntary
+CE001215,C06364,2025-08-17,Too Expensive,Voluntary
+CE001216,C06365,2025-12-20,Support Issues,Voluntary
+CE001217,C06366,2026-05-16,Other,Involuntary
+CE001218,C06372,2026-03-19,Poor Experience,Voluntary
+CE001219,C06373,2026-03-03,Payment Failure,Involuntary
+CE001220,C06375,2026-04-28,Payment Failure,Involuntary
+CE001221,C06379,2026-03-18,Low Usage,Voluntary
+CE001222,C06382,2026-02-25,Low Usage,Voluntary
+CE001223,C06387,2026-05-27,Missing Features,Voluntary
+CE001224,C06403,2026-02-17,Support Issues,Voluntary
+CE001225,C06411,2025-11-18,Missing Features,Voluntary
+CE001226,C06417,2026-06-11,Other,Voluntary
+CE001227,C06419,2026-02-05,Payment Failure,Involuntary
+CE001228,C06421,2025-08-19,Missing Features,Voluntary
+CE001229,C06423,2026-01-30,Missing Features,Voluntary
+CE001230,C06427,2026-06-15,Poor Experience,Voluntary
+CE001231,C06428,2026-01-06,Competitor,Voluntary
+CE001232,C06434,2026-03-12,Missing Features,Voluntary
+CE001233,C06435,2025-09-16,Poor Experience,Voluntary
+CE001234,C06440,2025-09-21,Too Expensive,Voluntary
+CE001235,C06442,2026-05-25,Poor Experience,Voluntary
+CE001236,C06445,2026-03-23,Low Usage,Voluntary
+CE001237,C06455,2026-03-02,Support Issues,Voluntary
+CE001238,C06458,2025-05-05,Payment Failure,Involuntary
+CE001239,C06460,2026-06-20,Low Usage,Voluntary
+CE001240,C06466,2026-03-07,Other,Voluntary
+CE001241,C06467,2026-06-30,Poor Experience,Voluntary
+CE001242,C06470,2026-06-28,Missing Features,Voluntary
+CE001243,C06475,2026-06-23,Support Issues,Voluntary
+CE001244,C06477,2026-02-03,Too Expensive,Voluntary
+CE001245,C06487,2026-02-07,Too Expensive,Voluntary
+CE001246,C06490,2026-03-19,Too Expensive,Voluntary
+CE001247,C06496,2025-11-03,Other,Voluntary
+CE001248,C06498,2026-06-24,Low Usage,Voluntary
+CE001249,C06499,2026-02-02,Missing Features,Voluntary
+CE001250,C06503,2026-05-24,Payment Failure,Involuntary
+CE001251,C06507,2026-06-26,Payment Failure,Involuntary
+CE001252,C06510,2026-01-20,Too Expensive,Voluntary
+CE001253,C06511,2026-04-12,Low Usage,Voluntary
+CE001254,C06512,2025-08-04,Support Issues,Voluntary
+CE001255,C06515,2026-05-27,Support Issues,Voluntary
+CE001256,C06518,2025-12-14,Low Usage,Voluntary
+CE001257,C06522,2025-10-29,Other,Voluntary
+CE001258,C06523,2026-06-03,Payment Failure,Involuntary
+CE001259,C06525,2025-04-23,Other,Voluntary
+CE001260,C06531,2025-07-23,Poor Experience,Voluntary
+CE001261,C06533,2026-05-10,Poor Experience,Voluntary
+CE001262,C06535,2025-09-04,Support Issues,Involuntary
+CE001263,C06541,2026-01-28,Low Usage,Voluntary
+CE001264,C06546,2026-02-11,Competitor,Voluntary
+CE001265,C06551,2026-02-28,Other,Voluntary
+CE001266,C06552,2025-11-27,Too Expensive,Voluntary
+CE001267,C06559,2026-02-18,Payment Failure,Involuntary
+CE001268,C06561,2026-05-24,Too Expensive,Voluntary
+CE001269,C06563,2025-09-02,Missing Features,Voluntary
+CE001270,C06565,2025-10-03,Competitor,Voluntary
+CE001271,C06570,2026-05-27,Too Expensive,Voluntary
+CE001272,C06572,2026-05-16,Poor Experience,Voluntary
+CE001273,C06574,2026-06-03,Payment Failure,Involuntary
+CE001274,C06575,2026-05-04,Payment Failure,Involuntary
+CE001275,C06577,2026-06-03,Payment Failure,Involuntary
+CE001276,C06582,2026-06-20,Competitor,Voluntary
+CE001277,C06583,2026-06-09,Other,Voluntary
+CE001278,C06586,2025-11-20,Other,Voluntary
+CE001279,C06598,2025-12-24,Missing Features,Voluntary
+CE001280,C06607,2026-03-12,Missing Features,Voluntary
+CE001281,C06616,2026-04-25,Low Usage,Voluntary
+CE001282,C06629,2026-06-26,Other,Voluntary
+CE001283,C06631,2026-05-14,Payment Failure,Involuntary
+CE001284,C06639,2025-10-25,Low Usage,Voluntary
+CE001285,C06641,2026-01-28,Low Usage,Voluntary
+CE001286,C06642,2026-06-29,Poor Experience,Voluntary
+CE001287,C06646,2026-06-27,Too Expensive,Voluntary
+CE001288,C06654,2026-02-16,Poor Experience,Voluntary
+CE001289,C06656,2026-05-06,Low Usage,Voluntary
+CE001290,C06667,2026-03-02,Poor Experience,Voluntary
+CE001291,C06670,2026-06-13,Other,Voluntary
+CE001292,C06674,2025-11-07,Poor Experience,Voluntary
+CE001293,C06679,2025-04-01,Missing Features,Voluntary
+CE001294,C06681,2026-03-11,Low Usage,Voluntary
+CE001295,C06687,2026-02-08,Too Expensive,Voluntary
+CE001296,C06690,2026-05-17,Low Usage,Voluntary
+CE001297,C06692,2026-03-27,Too Expensive,Voluntary
+CE001298,C06695,2025-09-29,Competitor,Voluntary
+CE001299,C06696,2026-05-26,Payment Failure,Involuntary
+CE001300,C06698,2026-04-26,Too Expensive,Voluntary
+CE001301,C06699,2026-06-14,Support Issues,Voluntary
+CE001302,C06702,2026-02-27,Too Expensive,Voluntary
+CE001303,C06719,2025-12-18,Poor Experience,Voluntary
+CE001304,C06722,2025-09-28,Competitor,Voluntary
+CE001305,C06724,2026-06-13,Other,Voluntary
+CE001306,C06729,2026-04-08,Support Issues,Voluntary
+CE001307,C06730,2026-06-14,Support Issues,Voluntary
+CE001308,C06736,2026-05-24,Poor Experience,Voluntary
+CE001309,C06737,2026-05-08,Missing Features,Voluntary
+CE001310,C06740,2026-02-28,Too Expensive,Voluntary
+CE001311,C06741,2026-05-02,Low Usage,Voluntary
+CE001312,C06744,2025-10-11,Payment Failure,Involuntary
+CE001313,C06761,2026-05-03,Low Usage,Voluntary
+CE001314,C06766,2026-05-05,Missing Features,Voluntary
+CE001315,C06768,2026-06-18,Poor Experience,Voluntary
+CE001316,C06770,2025-11-14,Too Expensive,Voluntary
+CE001317,C06774,2026-04-03,Payment Failure,Involuntary
+CE001318,C06776,2025-08-03,Low Usage,Voluntary
+CE001319,C06780,2026-05-20,Poor Experience,Voluntary
+CE001320,C06789,2026-06-17,Payment Failure,Involuntary
+CE001321,C06790,2026-03-26,Payment Failure,Involuntary
+CE001322,C06795,2026-02-24,Low Usage,Voluntary
+CE001323,C06804,2026-05-26,Payment Failure,Involuntary
+CE001324,C06807,2026-06-16,Low Usage,Voluntary
+CE001325,C06809,2026-06-26,Payment Failure,Involuntary
+CE001326,C06823,2026-05-03,Payment Failure,Involuntary
+CE001327,C06832,2025-11-24,Competitor,Voluntary
+CE001328,C06834,2025-05-08,Missing Features,Voluntary
+CE001329,C06839,2026-05-31,Payment Failure,Involuntary
+CE001330,C06843,2026-01-20,Competitor,Voluntary
+CE001331,C06850,2026-05-21,Support Issues,Voluntary
+CE001332,C06852,2026-06-23,Poor Experience,Voluntary
+CE001333,C06862,2025-08-07,Payment Failure,Involuntary
+CE001334,C06865,2025-09-10,Too Expensive,Voluntary
+CE001335,C06868,2026-03-13,Poor Experience,Voluntary
+CE001336,C06873,2026-03-21,Support Issues,Voluntary
+CE001337,C06876,2026-03-10,Too Expensive,Voluntary
+CE001338,C06882,2025-06-25,Low Usage,Voluntary
+CE001339,C06883,2026-03-07,Poor Experience,Voluntary
+CE001340,C06886,2026-04-26,Poor Experience,Voluntary
+CE001341,C06888,2026-06-12,Missing Features,Voluntary
+CE001342,C06893,2025-10-05,Payment Failure,Involuntary
+CE001343,C06896,2026-04-17,Other,Voluntary
+CE001344,C06899,2026-05-01,Missing Features,Voluntary
+CE001345,C06911,2025-09-11,Poor Experience,Voluntary
+CE001346,C06926,2025-10-07,Poor Experience,Voluntary
+CE001347,C06931,2025-07-31,Poor Experience,Voluntary
+CE001348,C06934,2026-05-06,Other,Voluntary
+CE001349,C06940,2026-01-17,Other,Voluntary
+CE001350,C06947,2026-05-28,Missing Features,Voluntary
+CE001351,C06955,2025-06-05,Competitor,Voluntary
+CE001352,C06968,2026-01-16,Poor Experience,Voluntary
+CE001353,C06974,2026-06-19,Payment Failure,Involuntary
+CE001354,C06981,2026-06-24,Poor Experience,Voluntary
+CE001355,C06983,2026-06-02,Poor Experience,Voluntary
+CE001356,C06990,2026-04-29,Competitor,Voluntary
+CE001357,C06991,2026-05-23,Poor Experience,Voluntary
+CE001358,C06995,2026-06-24,Poor Experience,Voluntary
+CE001359,C06998,2026-05-24,Low Usage,Voluntary
+CE001360,C07002,2026-06-22,Poor Experience,Voluntary
+CE001361,C07004,2025-05-07,Poor Experience,Voluntary
+CE001362,C07006,2026-01-25,Low Usage,Voluntary
+CE001363,C07020,2025-08-03,Poor Experience,Voluntary
+CE001364,C07022,2026-06-22,Payment Failure,Involuntary
+CE001365,C07028,2025-10-28,Low Usage,Voluntary
+CE001366,C07030,2025-06-21,Poor Experience,Voluntary
+CE001367,C07039,2026-06-24,Missing Features,Voluntary
+CE001368,C07057,2025-11-13,Missing Features,Voluntary
+CE001369,C07058,2025-12-04,Low Usage,Voluntary
+CE001370,C07063,2026-02-01,Poor Experience,Voluntary
+CE001371,C07064,2026-01-12,Missing Features,Voluntary
+CE001372,C07067,2025-09-29,Other,Voluntary
+CE001373,C07085,2026-04-15,Other,Voluntary
+CE001374,C07088,2026-03-25,Missing Features,Voluntary
+CE001375,C07097,2026-05-05,Low Usage,Voluntary
+CE001376,C07102,2026-02-25,Other,Voluntary
+CE001377,C07110,2026-06-08,Low Usage,Voluntary
+CE001378,C07112,2025-07-02,Low Usage,Voluntary
+CE001379,C07117,2026-06-30,Poor Experience,Voluntary
+CE001380,C07121,2026-05-01,Support Issues,Voluntary
+CE001381,C07124,2026-05-18,Payment Failure,Involuntary
+CE001382,C07125,2025-10-24,Too Expensive,Voluntary
+CE001383,C07127,2025-08-13,Poor Experience,Voluntary
+CE001384,C07131,2026-04-16,Other,Voluntary
+CE001385,C07133,2026-05-28,Competitor,Voluntary
+CE001386,C07149,2026-06-01,Payment Failure,Involuntary
+CE001387,C07159,2026-06-14,Low Usage,Voluntary
+CE001388,C07160,2026-04-12,Payment Failure,Involuntary
+CE001389,C07163,2026-01-21,Other,Voluntary
+CE001390,C07165,2026-05-08,Poor Experience,Voluntary
+CE001391,C07172,2025-07-19,Too Expensive,Voluntary
+CE001392,C07174,2025-10-27,Other,Voluntary
+CE001393,C07178,2025-05-07,Competitor,Voluntary
+CE001394,C07197,2026-06-21,Support Issues,Voluntary
+CE001395,C07200,2026-04-11,Payment Failure,Involuntary
+CE001396,C07202,2026-02-10,Other,Voluntary
+CE001397,C07217,2026-03-07,Poor Experience,Voluntary
+CE001398,C07219,2025-10-16,Too Expensive,Voluntary
+CE001399,C07220,2026-06-28,Other,Voluntary
+CE001400,C07223,2026-01-15,Poor Experience,Voluntary
+CE001401,C07233,2026-02-28,Low Usage,Voluntary
+CE001402,C07234,2026-03-25,Other,Voluntary
+CE001403,C07249,2026-06-26,Low Usage,Voluntary
+CE001404,C07250,2025-11-27,Missing Features,Voluntary
+CE001405,C07252,2026-06-11,Too Expensive,Voluntary
+CE001406,C07257,2026-06-24,Payment Failure,Involuntary
+CE001407,C07260,2026-05-17,Missing Features,Voluntary
+CE001408,C07261,2025-11-28,Poor Experience,Voluntary
+CE001409,C07262,2026-02-09,Too Expensive,Voluntary
+CE001410,C07269,2026-05-24,Support Issues,Voluntary
+CE001411,C07271,2026-03-07,Missing Features,Voluntary
+CE001412,C07276,2025-10-01,Too Expensive,Voluntary
+CE001413,C07289,2026-06-27,Competitor,Voluntary
+CE001414,C07291,2026-06-14,Support Issues,Voluntary
+CE001415,C07294,2026-04-25,Missing Features,Voluntary
+CE001416,C07306,2025-11-29,Payment Failure,Involuntary
+CE001417,C07307,2025-10-22,Competitor,Voluntary
+CE001418,C07312,2026-01-27,Poor Experience,Voluntary
+CE001419,C07313,2026-05-25,Competitor,Voluntary
+CE001420,C07323,2026-06-25,Poor Experience,Voluntary
+CE001421,C07331,2026-02-07,Poor Experience,Voluntary
+CE001422,C07333,2026-01-30,Too Expensive,Voluntary
+CE001423,C07346,2025-06-28,Competitor,Voluntary
+CE001424,C07349,2026-05-15,Payment Failure,Involuntary
+CE001425,C07353,2026-04-13,Support Issues,Voluntary
+CE001426,C07358,2026-03-30,Payment Failure,Involuntary
+CE001427,C07368,2025-11-15,Poor Experience,Voluntary
+CE001428,C07370,2026-03-31,Competitor,Voluntary
+CE001429,C07371,2026-04-08,Too Expensive,Voluntary
+CE001430,C07382,2026-03-15,Payment Failure,Involuntary
+CE001431,C07383,2026-04-19,Other,Voluntary
+CE001432,C07388,2026-03-03,Too Expensive,Voluntary
+CE001433,C07397,2026-03-16,Poor Experience,Voluntary
+CE001434,C07406,2025-08-11,Support Issues,Voluntary
+CE001435,C07411,2026-03-30,Poor Experience,Voluntary
+CE001436,C07429,2026-06-25,Support Issues,Voluntary
+CE001437,C07433,2026-03-19,Payment Failure,Involuntary
+CE001438,C07449,2025-06-24,Support Issues,Voluntary
+CE001439,C07469,2026-05-27,Too Expensive,Voluntary
+CE001440,C07482,2025-06-29,Competitor,Voluntary
+CE001441,C07486,2026-04-13,Poor Experience,Voluntary
+CE001442,C07489,2026-05-16,Missing Features,Voluntary
+CE001443,C07491,2026-01-13,Payment Failure,Involuntary
+CE001444,C07495,2026-05-01,Support Issues,Voluntary
+CE001445,C07501,2026-03-07,Payment Failure,Involuntary
+CE001446,C07509,2025-12-26,Missing Features,Voluntary
+CE001447,C07515,2026-05-12,Poor Experience,Voluntary
+CE001448,C07520,2025-11-20,Payment Failure,Involuntary
+CE001449,C07541,2025-09-08,Too Expensive,Voluntary
+CE001450,C07544,2026-04-21,Poor Experience,Voluntary
+CE001451,C07547,2026-06-05,Missing Features,Voluntary
+CE001452,C07551,2026-05-13,Low Usage,Voluntary
+CE001453,C07562,2025-04-28,Poor Experience,Voluntary
+CE001454,C07563,2026-02-26,Support Issues,Voluntary
+CE001455,C07570,2025-09-29,Other,Voluntary
+CE001456,C07573,2025-10-03,Too Expensive,Voluntary
+CE001457,C07582,2026-04-10,Low Usage,Voluntary
+CE001458,C07586,2026-05-28,Other,Voluntary
+CE001459,C07587,2026-04-03,Too Expensive,Voluntary
+CE001460,C07593,2026-06-07,Too Expensive,Voluntary
+CE001461,C07600,2026-04-29,Payment Failure,Involuntary
+CE001462,C07611,2025-11-01,Competitor,Voluntary
+CE001463,C07618,2026-04-03,Missing Features,Voluntary
+CE001464,C07622,2026-01-26,Too Expensive,Voluntary
+CE001465,C07627,2025-09-08,Competitor,Voluntary
+CE001466,C07633,2026-02-06,Other,Voluntary
+CE001467,C07661,2025-07-28,Low Usage,Voluntary
+CE001468,C07665,2026-06-25,Too Expensive,Voluntary
+CE001469,C07670,2026-05-03,Missing Features,Voluntary
+CE001470,C07680,2026-04-06,Other,Voluntary
+CE001471,C07683,2025-08-21,Other,Voluntary
+CE001472,C07685,2025-12-17,Missing Features,Voluntary
+CE001473,C07696,2025-07-31,Too Expensive,Voluntary
+CE001474,C07698,2026-06-10,Support Issues,Involuntary
+CE001475,C07700,2026-06-01,Missing Features,Voluntary
+CE001476,C07709,2026-01-17,Too Expensive,Voluntary
+CE001477,C07711,2025-06-24,Competitor,Voluntary
+CE001478,C07713,2026-01-21,Other,Voluntary
+CE001479,C07720,2026-03-17,Other,Voluntary
+CE001480,C07726,2026-05-27,Payment Failure,Involuntary
+CE001481,C07731,2026-02-17,Payment Failure,Involuntary
+CE001482,C07733,2026-06-22,Low Usage,Voluntary
+CE001483,C07736,2026-01-23,Payment Failure,Involuntary
+CE001484,C07754,2026-03-21,Poor Experience,Voluntary
+CE001485,C07760,2025-06-30,Too Expensive,Voluntary
+CE001486,C07761,2026-06-08,Support Issues,Voluntary
+CE001487,C07764,2026-06-07,Low Usage,Voluntary
+CE001488,C07786,2025-06-02,Missing Features,Voluntary
+CE001489,C07788,2026-06-21,Too Expensive,Voluntary
+CE001490,C07791,2026-02-13,Missing Features,Voluntary
+CE001491,C07798,2026-01-21,Poor Experience,Voluntary
+CE001492,C07799,2026-06-29,Other,Voluntary
+CE001493,C07805,2025-08-08,Low Usage,Voluntary
+CE001494,C07812,2025-08-31,Poor Experience,Voluntary
+CE001495,C07831,2025-11-22,Missing Features,Voluntary
+CE001496,C07833,2026-05-30,Competitor,Voluntary
+CE001497,C07834,2026-06-28,Support Issues,Voluntary
+CE001498,C07837,2026-06-23,Low Usage,Voluntary
+CE001499,C07843,2026-04-08,Missing Features,Voluntary
+CE001500,C07844,2026-03-05,Missing Features,Voluntary
+CE001501,C07850,2025-12-10,Competitor,Involuntary
+CE001502,C07855,2026-05-03,Poor Experience,Voluntary
+CE001503,C07858,2026-06-20,Low Usage,Voluntary
+CE001504,C07861,2025-09-23,Low Usage,Voluntary
+CE001505,C07865,2026-05-25,Missing Features,Voluntary
+CE001506,C07870,2026-06-23,Low Usage,Voluntary
+CE001507,C07874,2025-09-23,Competitor,Voluntary
+CE001508,C07891,2025-10-13,Low Usage,Voluntary
+CE001509,C07901,2026-02-02,Low Usage,Voluntary
+CE001510,C07902,2026-04-27,Poor Experience,Voluntary
+CE001511,C07911,2026-06-04,Payment Failure,Involuntary
+CE001512,C07916,2026-06-16,Poor Experience,Voluntary
+CE001513,C07918,2026-06-30,Support Issues,Voluntary
+CE001514,C07919,2026-06-17,Competitor,Voluntary
+CE001515,C07948,2026-04-24,Too Expensive,Voluntary
+CE001516,C07957,2025-09-12,Low Usage,Voluntary
+CE001517,C07960,2026-05-27,Missing Features,Voluntary
+CE001518,C07961,2026-05-14,Too Expensive,Voluntary
+CE001519,C07962,2026-06-11,Payment Failure,Involuntary
+CE001520,C07975,2026-06-17,Payment Failure,Involuntary
+CE001521,C07976,2026-06-03,Poor Experience,Voluntary
+CE001522,C07981,2025-10-23,Missing Features,Voluntary
+CE001523,C07983,2026-05-06,Low Usage,Voluntary
+CE001524,C07986,2026-06-12,Too Expensive,Voluntary
+CE001525,C07989,2025-07-22,Too Expensive,Voluntary
+CE001526,C07990,2025-12-26,Competitor,Voluntary
+CE001527,C07991,2025-11-19,Low Usage,Voluntary
+CE001528,C07994,2026-03-08,Support Issues,Voluntary
+CE001529,C07995,2026-05-04,Poor Experience,Voluntary
+CE001530,C07999,2026-01-12,Support Issues,Voluntary
+CE001531,C08000,2026-05-24,Missing Features,Voluntary
+CE001532,C08003,2025-05-02,Support Issues,Voluntary
+CE001533,C08006,2025-09-15,Other,Voluntary
+CE001534,C08015,2025-12-22,Competitor,Voluntary
+CE001535,C08020,2026-03-02,Competitor,Voluntary
+CE001536,C08026,2026-04-30,Low Usage,Voluntary
+CE001537,C08028,2025-11-16,Missing Features,Voluntary
+CE001538,C08035,2026-03-29,Poor Experience,Voluntary
+CE001539,C08049,2026-06-21,Too Expensive,Voluntary
+CE001540,C08054,2025-11-13,Other,Voluntary
+CE001541,C08058,2025-05-20,Poor Experience,Voluntary
+CE001542,C08064,2026-05-16,Competitor,Voluntary
+CE001543,C08076,2025-06-15,Support Issues,Voluntary
+CE001544,C08094,2026-05-20,Competitor,Voluntary
+CE001545,C08099,2026-06-03,Poor Experience,Voluntary
+CE001546,C08103,2025-08-11,Competitor,Voluntary
+CE001547,C08105,2026-05-11,Too Expensive,Voluntary
+CE001548,C08107,2026-04-30,Missing Features,Voluntary
+CE001549,C08108,2025-10-20,Payment Failure,Involuntary
+CE001550,C08109,2026-05-28,Too Expensive,Voluntary
+CE001551,C08115,2026-03-13,Low Usage,Voluntary
+CE001552,C08128,2026-06-01,Payment Failure,Involuntary
+CE001553,C08129,2026-06-23,Payment Failure,Involuntary
+CE001554,C08140,2026-06-07,Payment Failure,Involuntary
+CE001555,C08141,2026-01-26,Too Expensive,Voluntary
+CE001556,C08150,2026-03-13,Payment Failure,Involuntary
+CE001557,C08154,2026-05-06,Low Usage,Voluntary
+CE001558,C08160,2026-04-14,Poor Experience,Voluntary
+CE001559,C08171,2025-12-25,Low Usage,Voluntary
+CE001560,C08182,2025-10-04,Missing Features,Voluntary
+CE001561,C08183,2026-06-11,Other,Voluntary
+CE001562,C08187,2026-04-24,Poor Experience,Voluntary
+CE001563,C08204,2026-06-21,Low Usage,Voluntary
+CE001564,C08210,2026-06-26,Poor Experience,Voluntary
+CE001565,C08213,2025-12-23,Payment Failure,Involuntary
+CE001566,C08217,2026-05-05,Too Expensive,Voluntary
+CE001567,C08220,2025-12-16,Poor Experience,Voluntary
+CE001568,C08224,2025-10-03,Low Usage,Voluntary
+CE001569,C08233,2025-02-18,Poor Experience,Voluntary
+CE001570,C08251,2025-06-02,Missing Features,Voluntary
+CE001571,C08256,2025-07-07,Missing Features,Voluntary
+CE001572,C08260,2025-11-04,Payment Failure,Involuntary
+CE001573,C08265,2025-11-17,Payment Failure,Involuntary
+CE001574,C08270,2026-06-25,Competitor,Voluntary
+CE001575,C08271,2026-06-27,Low Usage,Voluntary
+CE001576,C08282,2025-08-09,Too Expensive,Voluntary
+CE001577,C08283,2025-09-02,Payment Failure,Involuntary
+CE001578,C08284,2026-03-09,Poor Experience,Voluntary
+CE001579,C08286,2026-05-13,Competitor,Voluntary
+CE001580,C08291,2025-08-22,Low Usage,Voluntary
+CE001581,C08295,2026-06-22,Low Usage,Voluntary
+CE001582,C08304,2025-08-16,Payment Failure,Involuntary
+CE001583,C08305,2025-08-28,Poor Experience,Voluntary
+CE001584,C08309,2026-04-11,Poor Experience,Voluntary
+CE001585,C08319,2026-05-13,Payment Failure,Involuntary
+CE001586,C08327,2026-06-08,Missing Features,Voluntary
+CE001587,C08332,2025-10-25,Too Expensive,Voluntary
+CE001588,C08344,2026-02-03,Competitor,Voluntary
+CE001589,C08362,2026-03-28,Missing Features,Voluntary
+CE001590,C08373,2026-02-26,Payment Failure,Involuntary
+CE001591,C08374,2026-03-22,Missing Features,Voluntary
+CE001592,C08376,2026-06-14,Support Issues,Involuntary
+CE001593,C08385,2026-05-10,Payment Failure,Involuntary
+CE001594,C08394,2026-05-13,Poor Experience,Voluntary
+CE001595,C08400,2026-01-14,Low Usage,Voluntary
+CE001596,C08403,2026-06-09,Low Usage,Voluntary
+CE001597,C08407,2026-04-15,Low Usage,Voluntary
+CE001598,C08408,2026-03-11,Support Issues,Voluntary
+CE001599,C08410,2026-04-11,Competitor,Voluntary
+CE001600,C08416,2026-02-21,Low Usage,Voluntary
+CE001601,C08422,2026-06-28,Low Usage,Voluntary
+CE001602,C08429,2026-01-14,Low Usage,Voluntary
+CE001603,C08455,2025-12-31,Low Usage,Voluntary
+CE001604,C08459,2026-06-15,Competitor,Voluntary
+CE001605,C08460,2026-04-04,Other,Voluntary
+CE001606,C08473,2026-06-20,Too Expensive,Voluntary
+CE001607,C08486,2025-10-30,Other,Voluntary
+CE001608,C08491,2026-03-28,Competitor,Voluntary
+CE001609,C08503,2026-02-09,Low Usage,Voluntary
+CE001610,C08506,2026-05-12,Payment Failure,Involuntary
+CE001611,C08507,2026-04-26,Support Issues,Voluntary
+CE001612,C08508,2025-06-29,Payment Failure,Involuntary
+CE001613,C08511,2025-12-22,Low Usage,Voluntary
+CE001614,C08513,2026-02-14,Low Usage,Voluntary
+CE001615,C08524,2026-06-08,Low Usage,Voluntary
+CE001616,C08531,2026-06-04,Payment Failure,Involuntary
+CE001617,C08537,2025-04-20,Low Usage,Voluntary
+CE001618,C08541,2026-06-27,Poor Experience,Voluntary
+CE001619,C08545,2026-06-07,Payment Failure,Involuntary
+CE001620,C08548,2026-05-14,Low Usage,Voluntary
+CE001621,C08555,2026-06-06,Missing Features,Voluntary
+CE001622,C08560,2026-06-17,Low Usage,Voluntary
+CE001623,C08561,2025-08-04,Support Issues,Voluntary
+CE001624,C08567,2026-06-24,Low Usage,Voluntary
+CE001625,C08569,2026-02-24,Support Issues,Voluntary
+CE001626,C08574,2026-01-03,Payment Failure,Involuntary
+CE001627,C08575,2025-11-10,Other,Voluntary
+CE001628,C08577,2025-12-07,Support Issues,Voluntary
+CE001629,C08580,2026-04-25,Support Issues,Voluntary
+CE001630,C08582,2026-06-28,Too Expensive,Voluntary
+CE001631,C08583,2026-02-17,Too Expensive,Voluntary
+CE001632,C08585,2026-04-08,Low Usage,Voluntary
+CE001633,C08589,2025-04-02,Other,Involuntary
+CE001634,C08592,2025-10-26,Low Usage,Voluntary
+CE001635,C08595,2025-10-14,Payment Failure,Involuntary
+CE001636,C08596,2025-08-23,Too Expensive,Voluntary
+CE001637,C08609,2025-09-13,Other,Involuntary
+CE001638,C08639,2026-06-18,Missing Features,Voluntary
+CE001639,C08644,2026-02-25,Support Issues,Voluntary
+CE001640,C08645,2026-02-15,Too Expensive,Voluntary
+CE001641,C08651,2026-04-12,Competitor,Voluntary
+CE001642,C08653,2025-10-27,Support Issues,Involuntary
+CE001643,C08655,2026-05-15,Too Expensive,Voluntary
+CE001644,C08658,2026-06-19,Support Issues,Voluntary
+CE001645,C08660,2026-05-02,Missing Features,Voluntary
+CE001646,C08665,2026-05-29,Low Usage,Voluntary
+CE001647,C08666,2026-06-17,Competitor,Voluntary
+CE001648,C08672,2026-06-23,Poor Experience,Voluntary
+CE001649,C08675,2026-03-25,Low Usage,Voluntary
+CE001650,C08682,2026-06-25,Poor Experience,Voluntary
+CE001651,C08691,2026-06-05,Missing Features,Voluntary
+CE001652,C08692,2026-01-17,Competitor,Voluntary
+CE001653,C08695,2026-06-13,Low Usage,Voluntary
+CE001654,C08700,2026-04-29,Competitor,Voluntary
+CE001655,C08706,2025-12-28,Support Issues,Voluntary
+CE001656,C08707,2026-06-14,Missing Features,Voluntary
+CE001657,C08710,2025-12-13,Low Usage,Voluntary
+CE001658,C08717,2026-06-19,Competitor,Voluntary
+CE001659,C08722,2025-06-13,Missing Features,Voluntary
+CE001660,C08723,2026-05-11,Too Expensive,Voluntary
+CE001661,C08727,2025-11-22,Support Issues,Voluntary
+CE001662,C08729,2025-08-03,Payment Failure,Involuntary
+CE001663,C08741,2026-06-07,Poor Experience,Voluntary
+CE001664,C08743,2025-12-11,Missing Features,Voluntary
+CE001665,C08749,2025-05-07,Missing Features,Voluntary
+CE001666,C08751,2026-04-28,Support Issues,Voluntary
+CE001667,C08757,2026-03-20,Payment Failure,Involuntary
+CE001668,C08760,2026-03-21,Other,Voluntary
+CE001669,C08764,2026-06-06,Poor Experience,Voluntary
+CE001670,C08770,2026-05-04,Low Usage,Voluntary
+CE001671,C08774,2026-05-24,Low Usage,Voluntary
+CE001672,C08780,2026-02-24,Other,Voluntary
+CE001673,C08782,2025-07-05,Too Expensive,Voluntary
+CE001674,C08783,2026-05-31,Support Issues,Voluntary
+CE001675,C08784,2026-01-04,Poor Experience,Voluntary
+CE001676,C08788,2025-10-05,Missing Features,Voluntary
+CE001677,C08797,2026-05-08,Low Usage,Voluntary
+CE001678,C08803,2025-12-27,Too Expensive,Voluntary
+CE001679,C08804,2026-01-29,Support Issues,Voluntary
+CE001680,C08815,2026-06-29,Poor Experience,Voluntary
+CE001681,C08820,2026-06-22,Missing Features,Voluntary
+CE001682,C08822,2026-06-11,Support Issues,Voluntary
+CE001683,C08833,2026-01-05,Low Usage,Voluntary
+CE001684,C08836,2026-06-14,Payment Failure,Involuntary
+CE001685,C08845,2025-08-08,Low Usage,Voluntary
+CE001686,C08847,2025-09-20,Support Issues,Voluntary
+CE001687,C08858,2026-04-24,Poor Experience,Voluntary
+CE001688,C08866,2026-04-27,Payment Failure,Involuntary
+CE001689,C08869,2025-08-20,Competitor,Voluntary
+CE001690,C08879,2026-01-20,Competitor,Voluntary
+CE001691,C08880,2025-07-18,Payment Failure,Involuntary
+CE001692,C08883,2026-02-02,Other,Voluntary
+CE001693,C08885,2026-04-10,Competitor,Voluntary
+CE001694,C08887,2025-10-16,Payment Failure,Involuntary
+CE001695,C08889,2026-01-30,Payment Failure,Involuntary
+CE001696,C08891,2026-05-27,Payment Failure,Involuntary
+CE001697,C08895,2026-02-01,Payment Failure,Involuntary
+CE001698,C08898,2026-04-03,Support Issues,Voluntary
+CE001699,C08905,2026-01-11,Poor Experience,Voluntary
+CE001700,C08914,2025-07-25,Payment Failure,Involuntary
+CE001701,C08923,2025-04-29,Competitor,Voluntary
+CE001702,C08924,2026-03-16,Too Expensive,Voluntary
+CE001703,C08926,2026-05-07,Support Issues,Voluntary
+CE001704,C08933,2025-07-03,Competitor,Voluntary
+CE001705,C08936,2026-02-25,Low Usage,Voluntary
+CE001706,C08940,2025-12-03,Low Usage,Voluntary
+CE001707,C08948,2025-05-02,Too Expensive,Voluntary
+CE001708,C08952,2025-07-26,Low Usage,Voluntary
+CE001709,C08953,2026-03-15,Competitor,Voluntary
+CE001710,C08957,2026-05-14,Too Expensive,Voluntary
+CE001711,C08958,2026-03-14,Too Expensive,Voluntary
+CE001712,C08962,2026-04-23,Poor Experience,Voluntary
+CE001713,C08965,2025-09-05,Poor Experience,Voluntary
+CE001714,C08966,2026-03-23,Missing Features,Voluntary
+CE001715,C08970,2026-05-03,Competitor,Voluntary
+CE001716,C08975,2026-04-28,Poor Experience,Voluntary
+CE001717,C08988,2026-02-10,Support Issues,Voluntary
+CE001718,C09004,2026-05-25,Missing Features,Voluntary
+CE001719,C09005,2026-05-22,Missing Features,Voluntary
+CE001720,C09008,2026-03-26,Payment Failure,Involuntary
+CE001721,C09010,2026-04-18,Poor Experience,Voluntary
+CE001722,C09011,2026-01-12,Support Issues,Voluntary
+CE001723,C09012,2025-06-19,Other,Voluntary
+CE001724,C09028,2025-06-24,Payment Failure,Involuntary
+CE001725,C09043,2025-10-22,Missing Features,Voluntary
+CE001726,C09054,2025-06-23,Low Usage,Voluntary
+CE001727,C09055,2026-05-03,Payment Failure,Involuntary
+CE001728,C09058,2026-02-20,Low Usage,Voluntary
+CE001729,C09062,2026-02-11,Low Usage,Voluntary
+CE001730,C09065,2026-06-10,Low Usage,Voluntary
+CE001731,C09067,2026-04-15,Competitor,Voluntary
+CE001732,C09071,2025-11-24,Competitor,Voluntary
+CE001733,C09078,2026-05-21,Payment Failure,Involuntary
+CE001734,C09084,2025-10-24,Missing Features,Voluntary
+CE001735,C09086,2026-05-01,Other,Voluntary
+CE001736,C09089,2026-04-23,Payment Failure,Involuntary
+CE001737,C09098,2025-08-26,Poor Experience,Voluntary
+CE001738,C09102,2026-06-09,Low Usage,Voluntary
+CE001739,C09105,2026-06-16,Payment Failure,Involuntary
+CE001740,C09107,2026-06-08,Poor Experience,Voluntary
+CE001741,C09108,2026-06-09,Payment Failure,Involuntary
+CE001742,C09111,2026-04-05,Poor Experience,Voluntary
+CE001743,C09112,2026-04-28,Competitor,Voluntary
+CE001744,C09116,2025-12-20,Payment Failure,Involuntary
+CE001745,C09122,2026-04-16,Low Usage,Voluntary
+CE001746,C09124,2026-03-23,Other,Voluntary
+CE001747,C09132,2026-06-06,Low Usage,Voluntary
+CE001748,C09136,2026-02-10,Low Usage,Voluntary
+CE001749,C09141,2026-04-24,Too Expensive,Voluntary
+CE001750,C09142,2025-10-01,Missing Features,Voluntary
+CE001751,C09151,2026-05-01,Competitor,Voluntary
+CE001752,C09174,2026-05-17,Low Usage,Voluntary
+CE001753,C09185,2026-06-04,Too Expensive,Voluntary
+CE001754,C09194,2026-03-27,Poor Experience,Voluntary
+CE001755,C09198,2026-02-03,Poor Experience,Voluntary
+CE001756,C09209,2026-05-29,Payment Failure,Involuntary
+CE001757,C09211,2026-06-05,Too Expensive,Voluntary
+CE001758,C09215,2025-11-02,Poor Experience,Voluntary
+CE001759,C09217,2026-06-09,Too Expensive,Voluntary
+CE001760,C09220,2026-01-29,Payment Failure,Involuntary
+CE001761,C09222,2026-04-21,Low Usage,Voluntary
+CE001762,C09225,2026-05-19,Poor Experience,Voluntary
+CE001763,C09227,2026-06-20,Payment Failure,Involuntary
+CE001764,C09228,2026-06-08,Other,Voluntary
+CE001765,C09237,2026-01-13,Payment Failure,Involuntary
+CE001766,C09239,2025-10-09,Poor Experience,Voluntary
+CE001767,C09240,2026-04-15,Competitor,Voluntary
+CE001768,C09248,2026-03-16,Missing Features,Voluntary
+CE001769,C09250,2026-03-11,Other,Voluntary
+CE001770,C09255,2026-04-06,Payment Failure,Involuntary
+CE001771,C09258,2025-04-29,Other,Voluntary
+CE001772,C09262,2025-12-21,Competitor,Voluntary
+CE001773,C09264,2025-09-25,Low Usage,Voluntary
+CE001774,C09266,2026-05-29,Competitor,Voluntary
+CE001775,C09279,2025-11-14,Too Expensive,Voluntary
+CE001776,C09284,2025-10-13,Other,Voluntary
+CE001777,C09285,2026-06-15,Support Issues,Voluntary
+CE001778,C09287,2025-05-10,Low Usage,Voluntary
+CE001779,C09295,2026-05-28,Payment Failure,Involuntary
+CE001780,C09298,2026-05-08,Low Usage,Voluntary
+CE001781,C09299,2025-08-29,Other,Voluntary
+CE001782,C09302,2026-05-13,Competitor,Voluntary
+CE001783,C09324,2025-11-29,Low Usage,Voluntary
+CE001784,C09325,2025-10-20,Low Usage,Voluntary
+CE001785,C09329,2025-09-09,Missing Features,Voluntary
+CE001786,C09337,2026-02-03,Payment Failure,Involuntary
+CE001787,C09338,2026-02-27,Poor Experience,Voluntary
+CE001788,C09359,2025-12-03,Low Usage,Voluntary
+CE001789,C09369,2026-05-18,Support Issues,Voluntary
+CE001790,C09371,2025-12-23,Payment Failure,Involuntary
+CE001791,C09376,2026-04-10,Too Expensive,Voluntary
+CE001792,C09386,2026-06-03,Payment Failure,Involuntary
+CE001793,C09388,2026-01-02,Competitor,Voluntary
+CE001794,C09391,2025-11-23,Poor Experience,Voluntary
+CE001795,C09394,2026-01-01,Too Expensive,Voluntary
+CE001796,C09405,2025-09-24,Low Usage,Voluntary
+CE001797,C09414,2025-05-27,Missing Features,Voluntary
+CE001798,C09423,2026-05-04,Payment Failure,Involuntary
+CE001799,C09428,2025-09-25,Payment Failure,Involuntary
+CE001800,C09429,2026-03-12,Missing Features,Voluntary
+CE001801,C09433,2026-03-27,Missing Features,Voluntary
+CE001802,C09444,2026-03-21,Missing Features,Voluntary
+CE001803,C09454,2026-03-13,Too Expensive,Voluntary
+CE001804,C09455,2026-05-05,Low Usage,Voluntary
+CE001805,C09460,2025-08-07,Missing Features,Voluntary
+CE001806,C09467,2026-03-24,Support Issues,Voluntary
+CE001807,C09469,2026-06-26,Missing Features,Voluntary
+CE001808,C09477,2026-03-21,Competitor,Voluntary
+CE001809,C09488,2026-03-09,Payment Failure,Involuntary
+CE001810,C09489,2026-03-23,Poor Experience,Voluntary
+CE001811,C09494,2026-01-04,Low Usage,Voluntary
+CE001812,C09501,2026-04-13,Low Usage,Voluntary
+CE001813,C09503,2026-03-18,Competitor,Voluntary
+CE001814,C09506,2026-06-18,Too Expensive,Voluntary
+CE001815,C09512,2025-11-09,Too Expensive,Voluntary
+CE001816,C09513,2026-02-27,Too Expensive,Voluntary
+CE001817,C09514,2025-09-26,Other,Involuntary
+CE001818,C09524,2026-01-08,Low Usage,Voluntary
+CE001819,C09527,2026-04-23,Other,Voluntary
+CE001820,C09544,2026-06-20,Too Expensive,Voluntary
+CE001821,C09545,2026-06-07,Missing Features,Voluntary
+CE001822,C09547,2025-08-09,Poor Experience,Voluntary
+CE001823,C09553,2026-03-13,Low Usage,Voluntary
+CE001824,C09554,2026-01-20,Support Issues,Voluntary
+CE001825,C09557,2025-09-18,Low Usage,Voluntary
+CE001826,C09559,2026-05-29,Other,Voluntary
+CE001827,C09564,2026-05-02,Missing Features,Voluntary
+CE001828,C09565,2026-06-03,Too Expensive,Voluntary
+CE001829,C09566,2025-10-29,Competitor,Voluntary
+CE001830,C09576,2025-12-19,Missing Features,Voluntary
+CE001831,C09583,2026-06-07,Low Usage,Voluntary
+CE001832,C09586,2025-06-12,Support Issues,Voluntary
+CE001833,C09591,2025-07-16,Missing Features,Voluntary
+CE001834,C09598,2026-04-07,Low Usage,Voluntary
+CE001835,C09599,2026-04-20,Payment Failure,Involuntary
+CE001836,C09600,2026-03-26,Payment Failure,Involuntary
+CE001837,C09606,2026-03-05,Poor Experience,Voluntary
+CE001838,C09612,2026-03-24,Poor Experience,Voluntary
+CE001839,C09616,2025-11-28,Competitor,Voluntary
+CE001840,C09619,2026-01-08,Payment Failure,Involuntary
+CE001841,C09623,2026-06-01,Poor Experience,Voluntary
+CE001842,C09625,2025-08-03,Too Expensive,Voluntary
+CE001843,C09626,2025-06-17,Missing Features,Voluntary
+CE001844,C09635,2025-12-14,Other,Voluntary
+CE001845,C09638,2026-02-11,Payment Failure,Involuntary
+CE001846,C09642,2025-10-20,Too Expensive,Voluntary
+CE001847,C09648,2026-06-13,Too Expensive,Voluntary
+CE001848,C09658,2025-10-05,Competitor,Voluntary
+CE001849,C09661,2026-06-29,Poor Experience,Voluntary
+CE001850,C09664,2025-12-16,Low Usage,Voluntary
+CE001851,C09668,2026-01-19,Too Expensive,Voluntary
+CE001852,C09670,2026-02-07,Other,Voluntary
+CE001853,C09674,2026-02-26,Support Issues,Voluntary
+CE001854,C09676,2026-03-12,Support Issues,Voluntary
+CE001855,C09691,2026-05-04,Low Usage,Voluntary
+CE001856,C09697,2025-03-11,Low Usage,Voluntary
+CE001857,C09698,2026-02-01,Missing Features,Voluntary
+CE001858,C09700,2025-12-14,Other,Voluntary
+CE001859,C09707,2026-02-17,Payment Failure,Involuntary
+CE001860,C09715,2025-02-17,Poor Experience,Voluntary
+CE001861,C09726,2026-03-05,Other,Voluntary
+CE001862,C09730,2026-04-27,Missing Features,Voluntary
+CE001863,C09733,2026-05-12,Poor Experience,Voluntary
+CE001864,C09741,2026-06-06,Payment Failure,Involuntary
+CE001865,C09749,2026-05-29,Payment Failure,Involuntary
+CE001866,C09751,2026-06-09,Too Expensive,Voluntary
+CE001867,C09752,2026-06-24,Too Expensive,Voluntary
+CE001868,C09764,2025-08-27,Poor Experience,Voluntary
+CE001869,C09768,2026-05-03,Payment Failure,Involuntary
+CE001870,C09770,2026-04-17,Support Issues,Voluntary
+CE001871,C09771,2026-02-08,Payment Failure,Involuntary
+CE001872,C09782,2026-05-30,Missing Features,Voluntary
+CE001873,C09796,2026-06-10,Other,Voluntary
+CE001874,C09797,2025-06-24,Competitor,Voluntary
+CE001875,C09801,2025-05-14,Low Usage,Voluntary
+CE001876,C09802,2026-04-18,Payment Failure,Involuntary
+CE001877,C09824,2026-04-16,Low Usage,Voluntary
+CE001878,C09835,2025-09-15,Missing Features,Voluntary
+CE001879,C09847,2025-10-21,Poor Experience,Voluntary
+CE001880,C09853,2026-01-18,Low Usage,Voluntary
+CE001881,C09883,2025-09-03,Low Usage,Voluntary
+CE001882,C09884,2026-05-04,Missing Features,Voluntary
+CE001883,C09892,2026-06-05,Support Issues,Voluntary
+CE001884,C09894,2026-03-12,Low Usage,Voluntary
+CE001885,C09899,2026-04-27,Low Usage,Voluntary
+CE001886,C09913,2025-12-29,Missing Features,Voluntary
+CE001887,C09917,2026-03-18,Payment Failure,Involuntary
+CE001888,C09924,2025-05-16,Payment Failure,Involuntary
+CE001889,C09925,2026-06-01,Payment Failure,Involuntary
+CE001890,C09927,2026-01-03,Too Expensive,Voluntary
+CE001891,C09931,2026-05-08,Low Usage,Voluntary
+CE001892,C09941,2026-02-04,Competitor,Voluntary
+CE001893,C09944,2025-10-06,Other,Voluntary
+CE001894,C09948,2026-06-19,Payment Failure,Involuntary
+CE001895,C09954,2026-06-02,Support Issues,Voluntary
+CE001896,C09962,2026-05-20,Too Expensive,Voluntary
+CE001897,C09963,2026-04-15,Low Usage,Voluntary
+CE001898,C09978,2026-05-28,Poor Experience,Voluntary
+CE001899,C09979,2026-06-03,Other,Voluntary
+CE001900,C09983,2026-05-18,Low Usage,Voluntary
+CE001901,C09987,2025-08-20,Support Issues,Voluntary
+CE001902,C09994,2025-11-20,Competitor,Voluntary
+CE001903,C09999,2026-05-06,Missing Features,Voluntary
