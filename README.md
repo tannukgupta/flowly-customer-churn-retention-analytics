@@ -27,8 +27,8 @@ This project explores questions such as:
 * **Pandas:** Data manipulation and aggregation
 * **MySQL 8:** Relational data storage, SQL validation, analysis, and customer-level analytical table
 * **Power BI:** Interactive dashboards and business reporting
-* **Excel / CSV:** Data inspection and exchange
-* **GitHub:** Project version control and presentation
+* **CSV:** Data storage and exchange
+* **GitHub:** Version control and project presentation
 
 ## 4. Project Workflow
 
@@ -64,7 +64,7 @@ The following are descriptive results from the simulated dataset:
 * **10,000** customers were included in the customer-level analytical table.
 * **1,903 customers churned**, giving an overall churn rate of **19.03%**.
 * Churn rates differed across subscription plans and engagement bands.
-* The lowest engagement band had a churn rate of **46.03%**, while the highest engagement band had a churn rate of **1.62%**.
+* * Churn rates varied substantially across engagement bands, with the highest engagement band showing a churn rate of **1.62%**.
 * Customers with five or more support tickets had a churn rate of **56.74%** in the analyzed dataset.
 * Recorded churn reasons and transaction evidence did not fully overlap, so payment-related conclusions require caution.
 
@@ -72,7 +72,7 @@ These are associations and descriptive observations, not proof that any single f
 
 ## 7. Dashboard Preview
 
-### Customer Churn Overview
+### Python Analysis — Customer Churn Overview
 
 ![Customer Churn Distribution](06_assets/customer_churn_distribution.png)
 
@@ -88,18 +88,23 @@ These are associations and descriptive observations, not proof that any single f
 
 ![Churn Rate by Support Ticket Volume](06_assets/churn_rate_by_support_ticket_volume.png)
 
-### Power BI Executive Overview
+## 8. Power BI Dashboard
+
+The Power BI report contains three interactive pages:
+
+### Executive Overview
 
 ![Power BI Executive Overview](06_assets/powerbi_executive_overview.png)
 
-### Power BI Engagement & Support
+### Engagement & Support
 
 ![Power BI Engagement and Support](06_assets/powerbi_engagement_support.png)
 
-### Power BI Revenue & Segmentation
+### Revenue & Segmentation
 
 ![Power BI Revenue and Segmentation](06_assets/powerbi_revenue_segmentation.png)
-## 8. Retention Recommendations
+
+## 9. Retention Recommendations
 
 The project proposes areas for further testing, including:
 
@@ -111,7 +116,7 @@ The project proposes areas for further testing, including:
 
 These are proposed interventions and hypotheses. Their effectiveness would need to be evaluated through properly designed experiments or other suitable measurement approaches.
 
-## 9. Limitations
+## 10. Limitations
 
 * The company and data are simulated rather than real.
 * Findings reflect the assumptions and rules used by the data generator.
@@ -119,7 +124,7 @@ These are proposed interventions and hypotheses. Their effectiveness would need 
 * Churn labels and transaction records may not align perfectly.
 * Recommendations require validation using real business data before implementation.
 
-## 10. Reproducibility and Documentation
+## 11. Reproducibility and Documentation
 
 Supporting documentation is available in `05_documentation/`:
 
@@ -133,6 +138,6 @@ Python scripts are in `02_python/`, SQL scripts are in `03_sql/`, and the Power 
 
 Refer to `HOW_TO_RECREATE.md` for the project reproduction instructions.
 
-## 11. Project Objective
+## 12. Project Objective
 
 The objective of this project is to demonstrate a complete analytics workflow—from data generation and quality assurance to SQL analysis, dashboard reporting, and evidence-based business recommendations—while clearly documenting assumptions and limitations.
