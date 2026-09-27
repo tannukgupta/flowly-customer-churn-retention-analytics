@@ -70,16 +70,23 @@ The following are descriptive results from the simulated dataset:
 
 These are associations and descriptive observations, not proof that any single factor caused churn.
 
-## 7. Power BI Dashboard
+## 7. Dashboard Preview
 
-The Power BI report contains three pages:
+### Customer Churn Overview
 
-1. **Executive Overview** — headline customer and churn metrics.
-2. **Engagement & Support** — customer engagement and support-related analysis.
-3. **Revenue & Segmentation** — revenue measures and customer segment comparisons.
+![Customer Churn Distribution](06_assets/customer_churn_distribution.png)
 
-The report includes slicers for interactive exploration.
+### Churn by Engagement
 
+![Churn Rate by Engagement Band](06_assets/churn_rate_by_engagement_band.png)
+
+### Churn by Subscription Plan
+
+![Churn Rate by Subscription Plan](06_assets/churn_rate_by_subscription_plan.png)
+
+### Churn by Support Ticket Volume
+
+![Churn Rate by Support Ticket Volume](06_assets/churn_rate_by_support_ticket_volume.png)
 ## 8. Retention Recommendations
 
 The project proposes areas for further testing, including:
