@@ -87,6 +87,18 @@ These are associations and descriptive observations, not proof that any single f
 ### Churn by Support Ticket Volume
 
 ![Churn Rate by Support Ticket Volume](06_assets/churn_rate_by_support_ticket_volume.png)
+
+### Power BI Executive Overview
+
+![Power BI Executive Overview](06_assets/powerbi_executive_overview.png)
+
+### Power BI Engagement & Support
+
+![Power BI Engagement and Support](06_assets/powerbi_engagement_support.png)
+
+### Power BI Revenue & Segmentation
+
+![Power BI Revenue and Segmentation](06_assets/powerbi_revenue_segmentation.png)
 ## 8. Retention Recommendations
 
 The project proposes areas for further testing, including:
